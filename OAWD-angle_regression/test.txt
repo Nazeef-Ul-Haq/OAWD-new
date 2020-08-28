@@ -1,0 +1,1468 @@
+Test\image10.jpg,492,85,544,117,3.0815930000000002,pistol
+Test\image10.jpg,193,108,240,150,0.3,pistol
+Test\image100.jpg,471,132,557,172,0.0,pistol
+Test\image100.jpg,304,250,400,428,2.901593,gun
+Test\image1008.jpg,132,100,216,172,2.771873,pistol
+Test\image101.jpg,503,844,1172,1159,2.461593,pistol
+Test\image1010.jpg,29,19,477,201,0.0,gun
+Test\image1010.jpg,30,187,484,368,0.0,gun
+Test\image1011.jpg,75,99,445,265,2.5196080000000003,pistol
+Test\image1012.jpg,73,23,637,421,0.0,pistol
+Test\image1013.jpg,71,37,667,502,3.109979,pistol
+Test\image1014.jpg,112,200,227,261,0.675271,pistol
+Test\image1015.jpg,1027,108,1456,1442,2.366675,gun
+Test\image1016.jpg,252,207,297,238,2.248898,pistol
+Test\image1016.jpg,276,159,321,190,2.298521,pistol
+Test\image1018.jpg,25,64,642,414,3.140205,pistol
+Test\image1029.jpg,18,51,230,180,0.527886,pistol
+Test\image1047.jpg,47,307,712,595,0.23195500000000002,gun
+Test\image1068.jpg,6,28,100,101,0.22676100000000002,pistol
+Test\image1068.jpg,652,110,769,177,0.029131999999999998,pistol
+Test\image107.jpg,56,28,240,92,3.101593,gun
+Test\image1088.jpg,982,813,3465,1527,2.952795,gun
+Test\image1088.jpg,93,1651,3903,2708,2.979188,gun
+Test\image1092.jpg,118,148,593,279,0.07852999999999999,gun
+Test\image1094.jpg,191,49,465,210,0.402172,pistol
+Test\image1121.jpg,141,241,709,683,2.694115,pistol
+Test\image1122.jpg,7,64,1347,835,0.0,pistol
+Test\image1123.jpg,4,1,386,235,0.0,pistol
+Test\image1124.jpg,69,207,1404,925,0.110463,gun
+Test\image1125.jpg,33,78,760,526,0.0,pistol
+Test\image1126.jpg,262,106,1198,721,2.974899,pistol
+Test\image1127.jpg,5,6,374,259,0.015931999999999998,gun
+Test\image1128.jpg,16,31,53,117,2.7357150000000003,pistol
+Test\image1129.jpg,551,75,952,423,0.0,gun
+Test\image1130.jpg,25,19,350,284,0.100351,pistol
+Test\image1131.jpg,5,165,597,442,0.0,gun
+Test\image1132.jpg,3,82,119,156,0.060445000000000006,pistol
+Test\image1133.jpg,125,116,301,236,0.5253899999999999,pistol
+Test\image1134.jpg,352,277,971,636,2.661393,pistol
+Test\image1136.jpg,34,170,227,244,0.256728,pistol
+Test\image1137.jpg,239,20,1373,887,0.0,pistol
+Test\image1138.jpg,36,16,431,303,3.0700060000000002,pistol
+Test\image1139.jpg,40,147,650,456,2.527352,gun
+Test\image1139.jpg,69,484,712,842,2.413966,gun
+Test\image114.jpg,48,82,115,167,2.641593,pistol
+Test\image1140.jpg,23,175,652,545,0.0,pistol
+Test\image1141.jpg,77,116,495,322,0.377958,gun
+Test\image1142.jpg,53,51,3794,1821,0.0,gun
+Test\image1143.jpg,463,205,1899,1038,0.0,pistol
+Test\image1144.jpg,39,80,115,160,2.447627,pistol
+Test\image1145.jpg,140,88,401,140,2.516568,gun
+Test\image1146.jpg,30,91,344,276,0.0,pistol
+Test\image1147.jpg,42,148,138,243,2.8151200000000003,pistol
+Test\image1148.jpg,9,306,161,390,0.71032,pistol
+Test\image1148.jpg,214,288,288,428,0.7686649999999999,pistol
+Test\image1149.jpg,7,7,414,148,0.0,gun
+Test\image1150.jpg,396,139,489,352,0.54748,pistol
+Test\image1151.jpg,390,154,939,533,0.471591,pistol
+Test\image1152.jpg,678,109,914,207,2.8520779999999997,pistol
+Test\image1153.jpg,19,57,203,241,3.057485,pistol
+Test\image1154.jpg,187,8,697,216,0.0,gun
+Test\image1154.jpg,195,230,687,466,0.0,gun
+Test\image1154.jpg,12,468,516,675,0.0,gun
+Test\image1154.jpg,628,455,997,658,0.0,gun
+Test\image1155.jpg,56,139,98,247,3.07248,pistol
+Test\image1156.jpg,140,156,273,219,2.990899,gun
+Test\image1157.jpg,21,74,1322,832,0.0,pistol
+Test\image1159.jpg,16,116,505,310,0.106924,gun
+Test\image116.jpg,98,30,129,90,2.261593,pistol
+Test\image1160.jpg,31,174,804,637,0.0,pistol
+Test\image1161.jpg,57,141,746,554,3.0802709999999998,pistol
+Test\image1162.jpg,156,156,351,252,2.2112939999999996,pistol
+Test\image1162.jpg,528,142,728,237,1.199165,pistol
+Test\image1163.jpg,43,77,430,313,0.235754,gun
+Test\image1226.jpg,541,230,673,354,0.173292,pistol
+Test\image1249.jpg,32,94,405,374,0.141505,gun
+Test\image1249.jpg,305,63,784,340,0.190326,gun
+Test\image1249.jpg,748,57,1099,342,0.251569,gun
+Test\image1271.jpg,205,108,627,310,0.306768,gun
+Test\image1271.jpg,739,196,1125,372,2.723171,gun
+Test\image1288.jpg,12,146,431,309,0.0,gun
+Test\image1289.jpg,38,276,962,729,0.201407,gun
+Test\image13.jpg,28,70,266,102,0.02,gun
+Test\image1363.jpg,167,70,352,218,0.226487,pistol
+Test\image1364.jpg,148,375,1598,861,2.6269430000000003,pistol
+Test\image1365.jpg,395,359,2786,2136,2.849905,pistol
+Test\image1367.jpg,30,79,622,474,0.0,pistol
+Test\image1369.jpg,85,236,858,750,0.495229,pistol
+Test\image1370.jpg,39,79,565,356,2.8408849999999997,pistol
+Test\image1371.jpg,17,34,841,455,0.0,pistol
+Test\image1372.jpg,39,84,730,560,0.191412,pistol
+Test\image1373.jpg,7,12,732,417,0.007927,pistol
+Test\image1374.jpg,39,47,239,185,2.6669810000000003,pistol
+Test\image1375.jpg,133,102,396,573,2.3794939999999998,pistol
+Test\image1376.jpg,33,173,688,550,0.0,pistol
+Test\image1422.jpg,39,111,164,203,3.068436,pistol
+Test\image1422.jpg,476,69,564,156,2.9847919999999997,pistol
+Test\image143.jpg,73,44,239,63,3.041593,gun
+Test\image1435.jpg,58,118,998,693,3.057988,pistol
+Test\image1436.jpg,81,69,795,432,0.059104,gun
+Test\image1437.jpg,591,147,1327,2275,2.466389,gun
+Test\image1438.jpg,65,101,951,500,0.191641,gun
+Test\image1439.jpg,166,384,969,879,3.090204,gun
+Test\image1440.jpg,17,20,589,489,0.0,gun
+Test\image1441.jpg,67,54,214,164,0.096739,pistol
+Test\image1443.jpg,201,5,223,83,0.074139,pistol
+Test\image1444.jpg,8,177,155,234,0.76905,gun
+Test\image1444.jpg,73,83,213,156,0.76905,gun
+Test\image1445.jpg,445,313,714,1050,0.114266,gun
+Test\image1446.jpg,352,108,483,207,2.840245,pistol
+Test\image1447.jpg,7,115,249,256,2.198523,pistol
+Test\image146.jpg,398,105,1112,278,3.0815930000000002,gun
+Test\image147.jpg,1729,56,2189,1141,0.66,pistol
+Test\image149.jpg,50,39,281,117,0.0,gun
+Test\image150.jpg,183,70,235,105,0.0,pistol
+Test\image153.jpg,217,69,261,101,2.841593,pistol
+Test\image154.jpg,60,49,210,130,3.051593,gun
+Test\image159.jpg,85,63,226,109,3.111593,gun
+Test\image160.jpg,15,21,148,82,0.12,pistol
+Test\image161.jpg,157,48,203,67,2.991593,pistol
+Test\image165.jpg,210,73,287,113,2.971593,pistol
+Test\image170.jpg,198,58,244,104,3.001593,pistol
+Test\image175.jpg,28,50,259,127,2.671593,gun
+Test\image181.jpg,103,94,171,135,2.371593,pistol
+Test\image181.jpg,207,65,228,129,3.031593,pistol
+Test\image1825.jpg,148,4,182,68,0.542593,pistol
+Test\image1832.jpg,135,44,292,103,2.498352,gun
+Test\image188.jpg,82,81,167,247,0.35,pistol
+Test\image19.jpg,475,179,1098,488,0.09,gun
+Test\image2.jpg,150,40,265,105,2.921593,pistol
+Test\image2015.jpg,258,107,882,402,2.751289,gun
+Test\image2016.jpg,443,235,946,352,0.502858,gun
+Test\image2018.jpg,948,30,1149,465,0.676384,gun
+Test\image2020.jpg,124,22,314,169,3.092375,pistol
+Test\image2021.jpg,549,169,981,279,3.092526,gun
+Test\image2022.jpg,530,394,1276,524,0.049725,gun
+Test\image2023.jpg,58,341,198,511,3.0672490000000003,pistol
+Test\image2024.jpg,650,78,715,466,3.089978,gun
+Test\image2025.jpg,477,179,546,272,3.0216,pistol
+Test\image2026.jpg,806,252,877,309,0.115916,pistol
+Test\image2027.jpg,11,151,317,280,0.536158,gun
+Test\image203.jpg,125,57,149,102,0.43,pistol
+Test\image2032.jpg,840,265,908,324,0.265135,pistol
+Test\image2032.jpg,225,237,296,292,0.363269,pistol
+Test\image2033.jpg,436,341,758,397,2.372776,gun
+Test\image2122.jpg,201,161,674,390,2.226012,gun
+Test\image2139.jpg,270,148,1203,401,3.0495759999999996,gun
+Test\image215.jpg,47,55,165,151,2.551593,pistol
+Test\image215.jpg,157,39,264,143,2.471593,pistol
+Test\image221.jpg,56,95,233,136,0.31,gun
+Test\image2259.jpg,298,465,1609,794,2.66445,gun
+Test\image2362.jpg,100,8,168,239,0.289702,gun
+Test\image2378.jpg,79,19,102,90,0.0,pistol
+Test\image2378.jpg,189,25,208,104,2.9972090000000002,pistol
+Test\image2390.jpg,106,96,152,128,0.035529000000000005,pistol
+Test\image2390.jpg,141,73,218,103,3.083582,pistol
+Test\image2391.jpg,28,87,80,145,0.536602,pistol
+Test\image2391.jpg,175,93,282,145,0.370923,pistol
+Test\image2392.jpg,155,71,197,115,2.172157,pistol
+Test\image2393.jpg,144,86,220,150,0.575905,pistol
+Test\image2394.jpg,202,97,236,120,0.44711999999999996,pistol
+Test\image2394.jpg,3,52,88,89,2.8872259999999996,gun
+Test\image2395.jpg,58,5,116,126,2.944971,pistol
+Test\image2397.jpg,30,57,82,119,0.195631,pistol
+Test\image2397.jpg,71,66,127,119,0.43951899999999994,pistol
+Test\image2398.jpg,199,75,253,136,2.9517900000000004,pistol
+Test\image2399.jpg,67,105,124,132,0.291488,pistol
+Test\image2399.jpg,226,61,330,141,0.034351,pistol
+Test\image2400.jpg,160,36,208,198,0.732952,gun
+Test\image2401.jpg,79,16,196,115,0.018959,pistol
+Test\image2401.jpg,35,52,48,72,0.0,pistol
+Test\image2402.jpg,40,77,205,145,0.296941,gun
+Test\image2403.jpg,41,29,141,71,3.0983509999999996,gun
+Test\image2404.jpg,210,97,244,164,2.516382,gun
+Test\image243.jpg,103,-8,145,199,2.341593,gun
+Test\image2435.jpg,4,64,68,131,0.10244400000000001,pistol
+Test\image2435.jpg,64,64,138,132,0.263496,pistol
+Test\image2436.jpg,152,91,249,150,0.306259,pistol
+Test\image2475.jpg,786,513,1306,853,0.45158100000000007,pistol
+Test\image25.jpg,27,43,88,80,0.0,gun
+Test\image25.jpg,83,71,121,87,0.0,pistol
+Test\image25.jpg,201,104,232,125,0.12,pistol
+Test\image25.jpg,142,12,174,32,3.001593,pistol
+Test\image25.jpg,295,3,328,73,0.1,gun
+Test\image2548.jpg,104,46,146,149,0.6494260000000001,pistol
+Test\image2577.jpg,66,10,135,221,2.3211,gun
+Test\image26.jpg,183,44,257,137,3.051593,pistol
+Test\image2627.jpg,16,66,266,147,3.0411259999999998,gun
+Test\image2627.jpg,30,31,175,89,2.994282,gun
+Test\image2725.jpg,144,58,369,142,2.652864,gun
+Test\image2745.jpg,235,84,318,262,2.813212,gun
+Test\image2776.jpg,2349,1191,3086,1636,0.168214,pistol
+Test\image2777.jpg,602,905,1832,1624,0.071087,pistol
+Test\image2796.jpg,111,1055,2006,1950,2.9116310000000003,gun
+Test\image2797.jpg,908,824,2075,1948,0.11170699999999999,gun
+Test\image2842.jpg,3171,218,3594,1951,0.29344000000000003,gun
+Test\image2842.jpg,790,1357,1464,2026,2.178068,gun
+Test\image2870.jpg,73,29,170,85,2.397374,pistol
+Test\image2870.jpg,101,71,214,141,0.153677,pistol
+Test\image2876.jpg,136,41,232,112,0.0,pistol
+Test\image2901.jpg,832,481,2397,860,2.590753,gun
+Test\image2927.jpg,1757,734,1933,1431,0.131186,gun
+Test\image2927.jpg,1071,567,1463,1399,2.5321919999999998,gun
+Test\image2927.jpg,418,555,622,1338,2.980632,gun
+Test\image2938.jpg,592,568,1829,1082,0.763069,gun
+Test\image2939.jpg,802,428,1109,1416,2.8496490000000003,gun
+Test\image295.jpg,164,20,256,44,2.771593,pistol
+Test\image2960.jpg,698,508,2076,1132,0.46337799999999996,gun
+Test\image297.jpg,85,6,174,180,2.291593,gun
+Test\image3025.jpg,813,655,1795,792,2.4856599999999998,gun
+Test\image3037.jpg,414,281,1228,751,2.697197,gun
+Test\image3059.jpg,539,516,1185,700,0.0,gun
+Test\image3059.jpg,849,800,893,1058,2.909956,gun
+Test\image3060.jpg,418,152,1596,714,0.138121,gun
+Test\image3079.jpg,702,403,1602,723,0.2533,gun
+Test\image3079.jpg,387,810,487,1070,0.0,pistol
+Test\image309.jpg,144,14,229,53,3.0615930000000002,pistol
+Test\image3102.jpg,394,162,812,348,2.719048,gun
+Test\image3103.jpg,676,285,991,1061,2.496649,gun
+Test\image3105.jpg,801,329,1821,638,0.380294,gun
+Test\image3106.jpg,646,336,1915,579,3.119264,gun
+Test\image3107.jpg,637,467,1418,828,0.136363,gun
+Test\image3108.jpg,832,335,1895,734,0.151221,gun
+Test\image3109.jpg,326,137,897,375,3.105357,gun
+Test\image3110.jpg,579,495,1805,829,0.232192,gun
+Test\image3111.jpg,428,584,1263,898,0.438954,gun
+Test\image3112.jpg,106,518,752,714,0.654239,gun
+Test\image3113.jpg,919,256,1568,432,0.585545,gun
+Test\image313.jpg,83,46,238,89,2.891593,gun
+Test\image3156.jpg,15,472,699,766,3.020705,gun
+Test\image3170.jpg,724,346,923,454,0.469233,gun
+Test\image3170.jpg,8,737,246,823,2.789948,gun
+Test\image3170.jpg,917,937,1102,1024,2.289177,gun
+Test\image3171.jpg,745,336,1025,494,0.0,gun
+Test\image3174.jpg,545,342,1265,626,2.9803740000000003,gun
+Test\image3174.jpg,175,342,455,454,0.0,gun
+Test\image3188.jpg,879,113,1143,289,2.75271,pistol
+Test\image3198.jpg,28,258,1229,631,0.328739,gun
+Test\image3199.jpg,435,151,1633,561,0.0,gun
+Test\image3200.jpg,457,157,1251,553,0.0,gun
+Test\image3201.jpg,352,267,1244,619,2.787087,gun
+Test\image3202.jpg,671,25,1029,506,0.160901,pistol
+Test\image3202.jpg,1394,382,1828,705,2.914576,pistol
+Test\image3203.jpg,903,323,1165,756,0.149369,pistol
+Test\image3204.jpg,909,119,1207,356,2.673254,pistol
+Test\image3205.jpg,1156,52,1453,306,3.006051,pistol
+Test\image3206.jpg,801,77,914,192,3.0500950000000002,pistol
+Test\image3207.jpg,195,254,989,451,3.080005,gun
+Test\image3208.jpg,1208,70,1658,433,3.085254,pistol
+Test\image3209.jpg,574,103,1150,391,0.0,gun
+Test\image3210.jpg,895,167,1189,399,3.102745,pistol
+Test\image3211.jpg,523,255,1367,383,0.65896,gun
+Test\image3212.jpg,25,222,925,578,2.542751,gun
+Test\image3213.jpg,376,293,1546,643,0.0,gun
+Test\image3214.jpg,111,288,1252,534,2.5961,gun
+Test\image3215.jpg,1106,90,1189,183,0.033366,pistol
+Test\image3217.jpg,470,118,1582,522,3.072207,gun
+Test\image3239.jpg,499,361,984,657,3.062231,gun
+Test\image3240.jpg,816,312,935,422,0.045176,pistol
+Test\image3241.jpg,506,132,834,334,0.295719,pistol
+Test\image3242.jpg,618,354,1904,733,2.6635869999999997,gun
+Test\image3243.jpg,495,347,927,671,2.854807,gun
+Test\image3244.jpg,585,294,1142,478,0.178004,gun
+Test\image3245.jpg,758,448,1173,621,2.710672,gun
+Test\image3246.jpg,409,233,1166,550,0.135757,gun
+Test\image3247.jpg,888,316,1274,468,0.065212,gun
+Test\image3248.jpg,256,367,1533,853,3.119223,gun
+Test\image3249.jpg,381,347,1001,750,3.036696,gun
+Test\image3250.jpg,489,262,1171,558,3.122115,gun
+Test\image3251.jpg,477,424,1297,664,2.7603880000000003,gun
+Test\image3251.jpg,564,353,797,475,2.7153869999999998,pistol
+Test\image3252.jpg,209,416,728,806,2.998051,gun
+Test\image3262.jpg,1366,282,1834,533,0.038937,gun
+Test\image3290.jpg,15,436,722,667,2.696584,gun
+Test\image3290.jpg,239,156,666,292,0.275293,gun
+Test\image33.jpg,111,274,984,365,0.01,gun
+Test\image3313.jpg,396,682,1188,876,2.566894,gun
+Test\image3324.jpg,669,257,1908,714,3.090546,gun
+Test\image3324.jpg,518,732,588,973,0.071099,pistol
+Test\image3325.jpg,600,331,1028,637,3.060923,gun
+Test\image3340.jpg,713,300,1377,466,2.725155,gun
+Test\image3340.jpg,658,632,724,792,0.0,pistol
+Test\image3348.jpg,166,408,1188,856,0.259882,gun
+Test\image3360.jpg,518,309,1036,653,2.862581,gun
+Test\image3368.jpg,581,409,1009,601,0.906732,gun
+Test\image3369.jpg,466,482,1370,830,0.0,gun
+Test\image337.jpg,161,34,293,114,2.531593,gun
+Test\image3372.jpg,489,321,1506,784,3.082424,gun
+Test\image3373.jpg,125,447,576,760,3.093893,pistol
+Test\image3374.jpg,1163,68,1239,422,0.133941,pistol
+Test\image3375.jpg,772,312,1208,831,0.36664,pistol
+Test\image3376.jpg,976,202,1244,458,0.0,pistol
+Test\image338.jpg,39,72,104,111,0.1,pistol
+Test\image3416.jpg,367,632,1370,822,0.5708770000000001,gun
+Test\image3416.jpg,997,419,1495,521,0.360442,gun
+Test\image3416.jpg,1211,340,1433,420,0.5095189999999999,gun
+Test\image3440.jpg,341,67,1157,300,0.170783,gun
+Test\image3453.jpg,871,616,1907,926,3.060764,gun
+Test\image3472.jpg,457,502,1278,711,0.888654,gun
+Test\image3473.jpg,14,490,1189,846,3.047063,gun
+Test\image3474.jpg,531,412,1108,868,0.585594,gun
+Test\image3475.jpg,468,752,590,849,0.19484200000000002,pistol
+Test\image3476.jpg,336,496,804,696,0.0,gun
+Test\image3476.jpg,1188,173,1477,463,0.091954,gun
+Test\image3477.jpg,803,167,1165,602,2.9578740000000003,gun
+Test\image3478.jpg,1111,240,1274,616,2.3171049999999997,gun
+Test\image3479.jpg,644,456,824,810,0.0,gun
+Test\image3480.jpg,901,272,1077,462,3.097036,pistol
+Test\image3481.jpg,330,284,967,734,0.06835,gun
+Test\image3482.jpg,666,271,1481,535,3.112711,gun
+Test\image3483.jpg,946,348,1736,572,0.0,gun
+Test\image3484.jpg,597,198,1396,486,0.089509,gun
+Test\image3485.jpg,984,418,1329,573,0.6121439999999999,gun
+Test\image3486.jpg,1095,390,1780,670,0.10961900000000001,gun
+Test\image3487.jpg,456,345,1453,724,3.068489,gun
+Test\image3488.jpg,326,385,1248,817,2.9191409999999998,gun
+Test\image3489.jpg,75,481,713,757,0.065962,gun
+Test\image3493.jpg,418,429,1587,769,0.140905,gun
+Test\image3508.jpg,268,462,1617,749,2.6015479999999997,gun
+Test\image3523.jpg,594,359,1526,914,2.769135,gun
+Test\image3524.jpg,174,258,1665,935,3.0859099999999997,gun
+Test\image3525.jpg,719,472,853,1075,0.045245999999999995,gun
+Test\image3526.jpg,85,193,1598,859,3.133302,gun
+Test\image3527.jpg,15,522,979,828,0.493199,gun
+Test\image3528.jpg,681,204,1876,991,0.112774,gun
+Test\image3529.jpg,828,368,925,1000,2.885426,gun
+Test\image3530.jpg,1174,176,1379,341,0.22550100000000003,gun
+Test\image3531.jpg,594,386,1854,1020,0.0,gun
+Test\image3532.jpg,578,108,1099,582,2.978647,gun
+Test\image3544.jpg,-33,524,1467,716,2.636462,gun
+Test\image3545.jpg,172,246,1789,997,0.100089,gun
+Test\image3546.jpg,264,254,1651,990,3.0091040000000002,gun
+Test\image3547.jpg,1185,230,1280,572,0.139593,gun
+Test\image3548.jpg,732,381,1447,750,0.728491,gun
+Test\image3549.jpg,226,404,1031,699,0.76984,gun
+Test\image3550.jpg,1217,483,1658,793,2.547453,pistol
+Test\image3551.jpg,1049,716,1530,891,2.617148,pistol
+Test\image3552.jpg,898,105,1062,479,0.4752,gun
+Test\image3553.jpg,29,437,800,804,2.9354430000000002,gun
+Test\image3553.jpg,865,329,1879,749,2.831611,gun
+Test\image3554.jpg,1188,602,1888,827,0.110393,gun
+Test\image3555.jpg,832,191,1309,718,0.20598699999999998,gun
+Test\image3556.jpg,433,315,1735,842,0.239887,gun
+Test\image3636.jpg,658,463,907,628,0.530927,pistol
+Test\image3648.jpg,839,327,973,393,2.3943369999999997,pistol
+Test\image3649.jpg,403,349,706,638,2.935322,pistol
+Test\image3650.jpg,1025,154,1223,289,0.028424,pistol
+Test\image3651.jpg,622,139,837,315,2.5627869999999997,pistol
+Test\image3652.jpg,497,274,882,553,3.141534,pistol
+Test\image3653.jpg,1004,255,1149,320,2.5275540000000003,pistol
+Test\image3656.jpg,476,467,1653,778,0.584183,gun
+Test\image3673.jpg,134,160,1119,524,0.325042,gun
+Test\image3688.jpg,477,161,1101,446,2.4809229999999998,gun
+Test\image3704.jpg,888,236,1189,426,0.0,pistol
+Test\image3717.jpg,851,55,1407,1012,0.792304,gun
+Test\image3718.jpg,656,266,1398,622,0.0,gun
+Test\image376.jpg,18,13,49,32,0.4,pistol
+Test\image376.jpg,227,106,265,128,0.4,pistol
+Test\image3760.jpg,661,377,1770,701,2.24499,gun
+Test\image3773.jpg,522,253,788,779,2.933059,gun
+Test\image3774.jpg,1064,401,1292,604,3.0426290000000003,pistol
+Test\image3775.jpg,1107,137,1619,354,3.117308,pistol
+Test\image3776.jpg,955,209,1379,451,3.0174689999999997,pistol
+Test\image3776.jpg,1729,166,1878,258,0.128212,pistol
+Test\image3777.jpg,1234,214,1645,700,3.119136,pistol
+Test\image3778.jpg,1381,85,1788,658,0.6331439999999999,pistol
+Test\image3779.jpg,356,211,790,479,0.0,pistol
+Test\image3780.jpg,113,216,446,453,3.056381,pistol
+Test\image3780.jpg,810,408,989,519,0.174921,pistol
+Test\image3781.jpg,898,143,1228,296,0.136296,pistol
+Test\image3781.jpg,614,409,786,543,0.0,pistol
+Test\image3781.jpg,979,381,1117,466,3.09163,pistol
+Test\image3782.jpg,591,218,825,394,0.059207,pistol
+Test\image3783.jpg,833,156,1061,272,3.065399,pistol
+Test\image3784.jpg,1598,273,1826,465,0.136403,pistol
+Test\image3785.jpg,1054,201,1326,365,0.036196,pistol
+Test\image3786.jpg,958,201,1268,404,0.049256,pistol
+Test\image3787.jpg,832,177,1072,373,0.022507,pistol
+Test\image3788.jpg,1184,169,1484,379,0.019412000000000002,pistol
+Test\image3789.jpg,575,505,665,673,2.821503,pistol
+Test\image3790.jpg,612,508,921,674,3.130252,pistol
+Test\image3790.jpg,998,440,1165,519,0.056162000000000004,pistol
+Test\image3790.jpg,1171,364,1328,465,3.106043,pistol
+Test\image3791.jpg,1168,270,1447,420,0.019469999999999998,pistol
+Test\image3792.jpg,705,233,979,407,3.134513,pistol
+Test\image390.jpg,78,49,137,85,0.07,pistol
+Test\image40.jpg,571,904,1404,1297,3.041593,pistol
+Test\image407.jpg,76,39,115,102,0.64,pistol
+Test\image407.jpg,204,34,243,94,2.771593,pistol
+Test\image428.jpg,3,38,47,86,0.1,gun
+Test\image428.jpg,176,54,268,109,0.3,gun
+Test\image448.jpg,34,95,74,123,3.0815930000000002,pistol
+Test\image449.jpg,179,36,241,74,2.871593,pistol
+Test\image50.jpg,48,87,234,152,0.4,gun
+Test\image503.jpg,145,25,201,74,2.941593,pistol
+Test\image503.jpg,186,25,255,71,2.941593,pistol
+Test\image51.jpg,2068,980,5143,1684,3.101593,gun
+Test\image549.jpg,49,62,280,102,2.571593,gun
+Test\image565.jpg,216,98,427,241,0.57,pistol
+Test\image566.jpg,345,292,854,503,3.101593,gun
+Test\image566.jpg,415,200,541,261,3.101593,gun
+Test\image646.jpg,91,88,237,118,0.67,gun
+Test\image653.jpg,211,47,262,88,3.111593,pistol
+Test\image654.jpg,216,34,251,143,0.5,pistol
+Test\image659.jpg,365,448,738,527,0.4,gun
+Test\image660.jpg,99,58,114,69,0.0,pistol
+Test\image661.jpg,129,82,168,104,3.101593,pistol
+Test\image662.jpg,483,187,696,296,0.26,pistol
+Test\image663.jpg,116,56,133,65,0.0,pistol
+Test\image666.jpg,44,51,268,139,0.16,gun
+Test\image672.jpg,34,220,676,453,2.941593,gun
+Test\image674.jpg,678,273,842,354,0.07,pistol
+Test\image675.jpg,58,71,109,177,2.841593,gun
+Test\image690.jpg,30,22,222,133,2.891593,gun
+Test\image691.jpg,11,48,206,146,0.0,gun
+Test\image692.jpg,25,100,141,164,0.0,gun
+Test\image695.jpg,131,60,170,89,0.22,pistol
+Test\image696.jpg,59,129,220,156,0.14,gun
+Test\image699.jpg,80,67,260,178,3.101593,pistol
+Test\image703.jpg,10,38,280,115,0.1,gun
+Test\image713.jpg,96,56,260,135,2.941593,gun
+Test\image781.jpg,30,78,91,109,0.0,pistol
+Test\image87.jpg,89,218,251,310,0.0,pistol
+Test\img (1).jpg,377,235,493,275,0.0,gun
+Test\img (1).jpg,653,325,825,387,0.01,gun
+Test\img (10).jpg,73,46,83,54,0.22,pistol
+Test\img (173).jpg,356,91,1091,652,0.14188699999999999,pistol
+Test\img (174).jpg,913,512,1090,614,0.512526,pistol
+Test\img (175).jpg,252,207,1071,607,0.256439,pistol
+Test\img (176).jpg,870,392,1213,630,3.105039,pistol
+Test\img (176).jpg,697,205,1174,462,2.69902,pistol
+Test\img (177).jpg,728,369,989,574,0.13129000000000002,pistol
+Test\img (177).jpg,452,304,718,500,3.1090869999999997,pistol
+Test\img (177).jpg,550,143,794,298,3.040768,pistol
+Test\img (177).jpg,271,227,535,403,3.041095,pistol
+Test\img (177).jpg,566,7,786,131,3.074273,pistol
+Test\img (178).jpg,103,108,1005,658,3.013225,pistol
+Test\img (179).jpg,59,54,875,686,0.0,pistol
+Test\img (179).jpg,536,102,1167,521,0.0,pistol
+Test\img (180).jpg,255,218,1055,557,0.44375,pistol
+Test\img (181).jpg,245,166,1088,616,0.257481,pistol
+Test\img (182).jpg,298,135,451,257,3.089571,gun
+Test\img (182).jpg,57,216,176,324,2.960766,gun
+Test\img (183).jpg,145,174,372,263,2.9044470000000002,gun
+Test\img (184).jpg,308,198,365,287,0.133494,pistol
+Test\img (185).jpg,14,32,777,469,0.0,pistol
+Test\img (186).jpg,164,130,580,241,0.23221999999999998,gun
+Test\img (187).jpg,130,53,1165,569,0.105483,gun
+Test\img (188).jpg,354,241,403,302,0.0,pistol
+Test\img (188).jpg,732,206,788,303,2.636102,pistol
+Test\img (189).jpg,350,53,822,997,2.2767880000000003,gun
+Test\img (190).jpg,191,183,932,441,0.0,gun
+Test\img (191).jpg,493,209,665,320,2.494586,pistol
+Test\img (192).jpg,244,84,306,244,2.5203599999999997,pistol
+Test\img (193).jpg,36,6,112,247,2.818317,pistol
+Test\img (194).jpg,115,4,272,370,3.075668,gun
+Test\img (195).jpg,115,103,1536,632,0.0,gun
+Test\img (196).jpg,274,316,1879,983,2.955374,gun
+Test\img (197).jpg,1,71,1914,761,0.0,gun
+Test\img (198).jpg,27,172,822,464,0.0,gun
+Test\img (198).jpg,23,482,818,774,0.0,gun
+Test\img (199).jpg,75,79,764,388,0.12824100000000002,gun
+Test\img (2).jpg,105,48,126,58,2.981593,pistol
+Test\img (2).jpg,165,63,180,71,2.481593,pistol
+Test\img (200).jpg,22,28,598,352,3.123656,gun
+Test\img (201).jpg,7,48,628,330,3.085977,gun
+Test\img (202).jpg,98,181,496,302,0.0,gun
+Test\img (203).jpg,14,64,487,444,3.106888,gun
+Test\img (204).jpg,264,211,1035,597,0.68723,gun
+Test\img (205).jpg,25,88,936,493,0.13549,gun
+Test\img (206).jpg,25,143,584,416,2.483343,gun
+Test\img (206).jpg,306,216,869,507,0.5525979999999999,gun
+Test\img (207).jpg,68,66,722,474,0.02224,gun
+Test\img (209).jpg,258,26,395,278,0.669529,gun
+Test\img (210).jpg,35,32,1192,495,0.0,gun
+Test\img (211).jpg,62,142,786,447,2.693175,gun
+Test\img (212).jpg,13,60,473,300,0.0,gun
+Test\img (213).jpg,44,138,950,477,0.0,gun
+Test\img (226).jpg,193,216,774,508,0.003127,gun
+Test\img (26).jpg,85,61,249,111,3.131593,gun
+Test\img (272).jpg,137,59,422,230,0.489957,pistol
+Test\img (291).jpg,396,353,1147,524,0.533475,gun
+Test\img (3).jpg,4,20,296,133,0.06,gun
+Test\img (4).jpg,64,1,90,183,2.871593,gun
+Test\img (41).jpg,210,93,292,103,2.751593,gun
+Test\img (41).jpg,196,95,208,153,0.0,gun
+Test\img (43).jpg,148,180,1256,305,2.881593,gun
+Test\img (44).jpg,232,116,265,141,0.0,pistol
+Test\img (45).jpg,438,300,640,457,0.03,gun
+Test\img (46).jpg,619,87,1101,642,0.44,gun
+Test\img (47).jpg,83,225,883,521,0.59,gun
+Test\img (48).jpg,306,161,1124,431,0.34,gun
+Test\img (49).jpg,152,204,310,277,3.011593,gun
+Test\img (49).jpg,336,195,510,280,0.0,gun
+Test\img (49).jpg,604,159,811,223,3.111593,gun
+Test\img (5).jpg,6,54,248,106,2.651593,gun
+Test\img (51).jpg,6,3,318,154,0.0,pistol
+Test\img (52).jpg,239,245,770,641,2.991593,gun
+Test\img (53).jpg,925,426,981,498,2.751593,pistol
+Test\img (54).jpg,27,261,131,302,0.11,pistol
+Test\img (54).jpg,412,223,465,243,0.0,pistol
+Test\img (54).jpg,596,144,646,165,0.0,pistol
+Test\img (54).jpg,674,175,720,200,0.0,pistol
+Test\img (55).jpg,175,22,279,94,2.5815930000000002,pistol
+Test\img (56).jpg,1140,67,1970,1562,2.941593,gun
+Test\img (56).jpg,3609,422,4029,2116,3.071593,gun
+Test\img (57).jpg,394,207,1677,642,3.101593,gun
+Test\img (58).jpg,218,81,269,122,0.25,pistol
+Test\img (6).jpg,9,31,266,120,3.101593,gun
+Test\img (7).jpg,57,105,68,158,0.63,gun
+Test\img (7).jpg,107,97,135,141,2.041593,gun
+Test\img (7).jpg,157,117,261,146,0.32,gun
+Test\img (7).jpg,31,97,53,104,2.441593,gun
+Test\img (76).jpg,438,564,961,608,2.841593,gun
+Test\img (76).jpg,449,368,868,406,2.651593,gun
+Test\img (76).jpg,539,235,678,266,2.841593,gun
+Test\img (8).jpg,371,184,411,205,0.31,pistol
+Test\img (86).jpg,219,78,631,275,0.4,gun
+Test\img (9).jpg,142,99,166,108,0.0,gun
+Test\img (9).jpg,129,91,147,97,0.0,gun
+Test\img (9).jpg,57,89,68,95,0.0,gun
+Test\img (97).jpg,153,9,226,179,0.464475,gun
+Test\img0 (100).jpg,29,2,265,153,0.0,pistol
+Test\img0 (101).jpg,13,42,234,163,0.0,pistol
+Test\img0 (102).jpg,25,77,212,154,2.9929669999999997,pistol
+Test\img0 (102).jpg,69,9,247,103,3.054045,pistol
+Test\img0 (103).jpg,95,36,188,186,0.586303,pistol
+Test\img0 (104).jpg,39,40,207,130,2.606419,pistol
+Test\img0 (105).jpg,107,54,168,84,0.397662,pistol
+Test\img0 (106).jpg,37,42,222,163,0.0,pistol
+Test\img0 (107).jpg,38,46,230,124,0.550377,pistol
+Test\img0 (108).jpg,12,60,208,135,2.45697,pistol
+Test\img0 (109).jpg,5,18,275,161,0.046577999999999994,gun
+Test\img0 (110).jpg,3,17,286,166,0.0,pistol
+Test\img0 (111).jpg,15,27,215,129,0.018923,pistol
+Test\img0 (112).jpg,88,33,258,142,2.957375,pistol
+Test\img0 (113).jpg,21,23,177,139,2.789895,pistol
+Test\img0 (114).jpg,26,33,248,160,2.982702,pistol
+Test\img0 (115).jpg,19,32,226,183,0.24513000000000001,pistol
+Test\img0 (116).jpg,54,31,217,155,0.20338699999999998,gun
+Test\img0 (117).jpg,2,6,266,179,0.0,pistol
+Test\img0 (118).jpg,46,22,266,147,0.068275,pistol
+Test\img0 (119).jpg,55,35,238,122,2.6905919999999997,pistol
+Test\img0 (120).jpg,19,48,229,155,2.5694630000000003,pistol
+Test\img0 (121).jpg,8,7,265,169,0.0,pistol
+Test\img0 (122).jpg,56,66,166,140,3.090125,pistol
+Test\img0 (123).jpg,33,37,227,181,0.093738,pistol
+Test\img0 (124).jpg,20,19,239,166,0.0,pistol
+Test\img0 (279).jpg,125,214,1042,648,2.650125,pistol
+Test\img0 (280).jpg,122,204,531,510,2.645341,pistol
+Test\img0 (281).jpg,48,94,557,481,0.0,pistol
+Test\img0 (282).jpg,672,123,809,225,3.1240669999999997,pistol
+Test\img0 (283).jpg,0,53,479,432,0.0,pistol
+Test\img0 (284).jpg,72,174,834,574,2.77268,pistol
+Test\img0 (285).jpg,119,208,1098,820,2.8599,pistol
+Test\img0 (286).jpg,56,128,387,367,0.0,pistol
+Test\img0 (287).jpg,29,86,622,471,0.0,pistol
+Test\img0 (338).jpg,22,58,232,164,2.839804,pistol
+Test\img0 (339).jpg,6,43,218,188,3.069697,pistol
+Test\img0 (340).jpg,7,5,251,188,0.003542,pistol
+Test\img0 (341).jpg,3,2,262,192,0.0,pistol
+Test\img0 (342).jpg,9,52,213,200,0.0025989999999999997,pistol
+Test\img0 (343).jpg,26,32,226,178,0.159022,pistol
+Test\img0 (344).jpg,4,12,242,132,3.0653189999999997,gun
+Test\img0 (345).jpg,9,45,204,136,0.564824,pistol
+Test\img0 (346).jpg,17,40,138,129,2.307238,pistol
+Test\img0 (346).jpg,121,59,250,150,2.3883400000000004,pistol
+Test\img0 (347).jpg,39,34,214,170,0.0,pistol
+Test\img0 (348).jpg,8,55,182,131,2.3620740000000002,pistol
+Test\img0 (349).jpg,10,7,294,139,0.0,gun
+Test\img0 (350).jpg,19,22,252,157,2.9628650000000003,pistol
+Test\img0 (351).jpg,2,19,297,146,0.0,gun
+Test\img0 (352).jpg,4,40,220,188,0.0,pistol
+Test\img0 (353).jpg,40,17,132,154,2.4750099999999997,pistol
+Test\img0 (353).jpg,142,10,243,152,2.09081,pistol
+Test\img0 (354).jpg,7,20,245,169,0.0,pistol
+Test\img0 (355).jpg,76,50,281,122,0.572204,pistol
+Test\img0 (356).jpg,5,1,270,181,0.0,pistol
+Test\img0 (357).jpg,20,26,175,138,2.855983,pistol
+Test\img0 (358).jpg,41,15,234,166,0.0,pistol
+Test\img0 (359).jpg,50,22,227,142,3.1310189999999998,pistol
+Test\img0 (360).jpg,1,37,271,142,0.0,gun
+Test\img0 (361).jpg,3,3,252,184,0.0,pistol
+Test\img0 (362).jpg,11,33,221,148,3.049043,pistol
+Test\img0 (363).jpg,18,17,243,174,0.0,pistol
+Test\img0 (364).jpg,14,16,262,162,3.001905,pistol
+Test\img0 (365).jpg,2,3,266,186,0.0,pistol
+Test\img0 (366).jpg,29,18,257,175,0.0,pistol
+Test\img0 (367).jpg,18,45,151,132,0.558599,pistol
+Test\img0 (367).jpg,123,45,253,133,2.546321,pistol
+Test\img0 (368).jpg,10,57,241,169,0.0,gun
+Test\img0 (369).jpg,33,27,234,177,3.106647,pistol
+Test\img0 (370).jpg,19,15,230,172,3.045254,pistol
+Test\img0 (371).jpg,23,43,232,141,3.1153,pistol
+Test\img0 (372).jpg,27,2,265,175,0.0,pistol
+Test\img0 (373).jpg,15,7,258,176,0.0,pistol
+Test\img0 (374).jpg,48,48,206,124,2.390034,pistol
+Test\img0 (375).jpg,18,70,205,214,0.010428,pistol
+Test\img0 (376).jpg,13,26,229,177,2.933925,pistol
+Test\img0 (377).jpg,5,44,223,192,0.0,pistol
+Test\img0 (378).jpg,40,57,208,165,0.0,pistol
+Test\img0 (379).jpg,61,58,216,155,0.409073,pistol
+Test\img0 (380).jpg,183,33,224,65,0.0,pistol
+Test\img0 (381).jpg,16,71,192,144,2.522583,pistol
+Test\img0 (382).jpg,30,32,210,153,2.714866,pistol
+Test\img0 (383).jpg,65,24,217,143,2.778204,pistol
+Test\img0 (384).jpg,40,77,200,190,2.6402520000000003,pistol
+Test\img0 (385).jpg,61,29,237,137,2.7716990000000004,pistol
+Test\img0 (386).jpg,21,42,249,176,0.0,pistol
+Test\img0 (419).jpg,18,48,210,178,0.0,pistol
+Test\img0 (420).jpg,19,3,252,177,0.0,pistol
+Test\img0 (421).jpg,1,31,224,189,0.0,pistol
+Test\img0 (422).jpg,16,3,282,170,0.024507,pistol
+Test\img0 (423).jpg,9,44,218,179,0.0,pistol
+Test\img0 (424).jpg,24,80,188,188,0.0,pistol
+Test\img0 (442).jpg,2,37,217,183,0.0,pistol
+Test\img0 (443).jpg,10,5,268,175,0.0,pistol
+Test\img0 (558).jpg,99,105,748,569,3.059933,pistol
+Test\img0 (576).jpg,12,135,587,295,2.751502,gun
+Test\img0 (577).jpg,45,204,979,485,2.883067,gun
+Test\img0 (595).jpg,0,133,848,238,2.816273,gun
+Test\img0 (595).jpg,43,205,990,438,2.8559229999999998,gun
+Test\img0 (595).jpg,116,443,863,558,2.910603,gun
+Test\img0 (652).jpg,23,175,446,308,2.8976029999999997,gun
+Test\img0 (664).jpg,43,423,1852,901,2.614075,gun
+Test\img0 (664).jpg,658,711,2457,1141,2.542927,gun
+Test\img0 (683).jpg,41,126,466,271,2.681489,gun
+Test\img0 (684).jpg,62,109,416,285,0.48966000000000004,gun
+Test\img0 (726).jpg,3,18,217,86,0.11244100000000001,gun
+Test\img0 (726).jpg,3,123,221,174,2.853827,gun
+Test\img0 (750).jpg,10,55,270,131,2.71415,gun
+Test\img0 (768).jpg,9,76,260,113,0.6419020000000001,gun
+Test\img0 (836).jpg,0,55,221,108,0.49082299999999995,gun
+Test\img0 (85).jpg,7,106,284,304,0.078088,pistol
+Test\img0 (88).jpg,57,69,430,292,0.21942399999999998,pistol
+Test\img0 (89).jpg,17,13,237,167,0.0,pistol
+Test\img0 (90).jpg,37,41,224,109,2.836241,pistol
+Test\img0 (90).jpg,69,83,266,148,2.944122,pistol
+Test\img0 (908).jpg,21,39,258,117,2.841719,gun
+Test\img0 (91).jpg,33,52,229,112,2.522204,pistol
+Test\img0 (92).jpg,38,25,256,132,3.120949,pistol
+Test\img0 (928).jpg,286,486,1210,755,2.502251,gun
+Test\img0 (93).jpg,12,51,225,153,2.741852,pistol
+Test\img0 (94).jpg,9,8,264,179,0.033292,pistol
+Test\img0 (95).jpg,9,15,253,175,0.0,pistol
+Test\img0 (955).jpg,24,98,277,183,0.637147,gun
+Test\img0 (955).jpg,428,13,507,259,0.48483100000000007,gun
+Test\img0 (96).jpg,7,18,241,133,3.0004169999999997,pistol
+Test\img0 (97).jpg,22,52,231,118,2.6045130000000003,pistol
+Test\img0 (98).jpg,14,45,181,159,2.289329,pistol
+Test\img0 (99).jpg,4,36,259,159,0.065459,pistol
+Test\pic0.jpg,57,35,218,112,2.691593,gun
+Test\pic1.jpg,72,117,250,179,0.02,gun
+Test\pic10.jpg,30,23,246,141,0.01,gun
+Test\pic11.jpg,141,78,310,200,0.23,gun
+Test\pic12.jpg,309,69,355,195,0.0,gun
+Test\pic126.jpg,270,15,424,60,0.03,gun
+Test\pic127.jpg,49,143,216,194,2.491593,gun
+Test\pic127.jpg,122,58,193,79,3.111593,gun
+Test\pic127.jpg,208,106,281,127,0.17,gun
+Test\pic127.jpg,354,101,417,128,0.13,gun
+Test\pic128.jpg,94,25,142,240,2.211593,gun
+Test\pic129.jpg,255,47,292,163,2.881593,gun
+Test\pic13.jpg,55,66,406,216,0.03,gun
+Test\pic130.jpg,61,12,193,226,2.911593,gun
+Test\pic131.jpg,5,157,121,206,0.4,gun
+Test\pic131.jpg,213,105,423,155,2.791593,gun
+Test\pic132.jpg,119,86,135,232,0.08,gun
+Test\pic133.jpg,99,58,145,70,2.791593,gun
+Test\pic133.jpg,24,93,42,221,2.951593,gun
+Test\pic134.jpg,126,25,166,194,2.691593,gun
+Test\pic135.jpg,265,5,338,230,2.771593,gun
+Test\pic136.jpg,302,5,340,238,3.091593,gun
+Test\pic136.jpg,24,73,51,199,0.15,gun
+Test\pic137.jpg,54,49,71,182,3.071593,gun
+Test\pic137.jpg,229,99,281,232,1.53,gun
+Test\pic138.jpg,50,47,76,179,3.051593,gun
+Test\pic138.jpg,347,59,366,200,0.51,gun
+Test\pic139.jpg,203,86,278,106,2.5615930000000002,gun
+Test\pic14.jpg,17,36,181,108,0.33,gun
+Test\pic146.jpg,130,5,179,234,2.8315930000000002,gun
+Test\pic15.jpg,86,69,120,87,0.09,gun
+Test\pic16.jpg,22,80,59,106,0.33,gun
+Test\pic17.jpg,92,70,166,128,2.931593,gun
+Test\pic18.jpg,102,10,165,141,0.3,gun
+Test\pic19.jpg,6,33,226,104,2.931593,pistol
+Test\pic2.jpg,72,118,253,179,0.11,gun
+Test\pic20.jpg,189,135,419,214,0.05,gun
+Test\pic20.jpg,82,161,105,195,0.74,pistol
+Test\pic204.jpg,9,145,228,180,0.6,gun
+Test\pic204.jpg,179,102,277,122,0.19,gun
+Test\pic204.jpg,248,104,314,120,0.37,gun
+Test\pic21.jpg,178,117,305,184,3.111593,gun
+Test\pic22.jpg,180,60,204,166,0.0,gun
+Test\pic29.jpg,153,63,362,147,2.631593,gun
+Test\pic3.jpg,16,34,257,124,2.931593,gun
+Test\pic331.jpg,68,110,252,161,0.23,gun
+Test\pic358.jpg,177,89,324,138,0.09,gun
+Test\pic366.jpg,273,95,403,143,2.981593,gun
+Test\pic379.jpg,203,73,247,185,2.691593,gun
+Test\pic4.jpg,97,101,286,193,0.618236,gun
+Test\pic426.jpg,148,24,354,174,2.879101,gun
+Test\pic479.jpg,1,62,206,125,3.0851290000000002,gun
+Test\pic479.jpg,123,192,333,233,3.0851290000000002,gun
+Test\pic482.jpg,356,62,423,100,0.1,gun
+Test\pic483.jpg,95,117,327,207,0.04,gun
+Test\pic484.jpg,309,77,342,191,2.391593,gun
+Test\pic484.jpg,2,20,83,85,3.071593,gun
+Test\pic485.jpg,3,81,142,128,2.941593,gun
+Test\pic486.jpg,95,82,164,126,0.26592,pistol
+Test\pic487.jpg,5,102,421,203,3.041593,gun
+Test\pic488.jpg,170,68,294,102,0.355195,gun
+Test\pic490.jpg,200,23,291,236,2.402902,gun
+Test\pic491.jpg,34,58,147,105,0.16656500000000002,gun
+Test\pic491.jpg,223,92,348,153,0.156565,gun
+Test\pic493.jpg,177,96,229,115,0.6989890000000001,gun
+Test\pic493.jpg,246,119,292,139,0.828989,gun
+Test\pic496.jpg,160,64,332,137,3.030647,gun
+Test\pic497.jpg,55,0,109,213,0.0,gun
+Test\pic498.jpg,121,73,281,216,2.949001,gun
+Test\pic499.jpg,187,87,221,146,0.0,gun
+Test\pic5.jpg,147,100,255,146,3.013038,gun
+Test\pic500.jpg,53,106,80,239,0.0,gun
+Test\pic500.jpg,207,57,287,122,0.0,gun
+Test\pic501.jpg,107,88,131,198,3.039022,gun
+Test\pic501.jpg,353,93,383,210,0.033405000000000004,gun
+Test\pic503.jpg,169,138,188,209,0.0,gun
+Test\pic504.jpg,107,173,200,206,2.3305830000000003,gun
+Test\pic504.jpg,198,183,283,209,2.270923,gun
+Test\pic505.jpg,15,0,45,69,0.0,gun
+Test\pic505.jpg,174,1,207,92,0.590985,gun
+Test\pic505.jpg,336,2,371,111,0.212481,gun
+Test\pic506.jpg,64,71,90,214,0.080887,gun
+Test\pic507.jpg,139,144,188,233,2.673512,gun
+Test\pic508.jpg,71,82,376,192,0.0,gun
+Test\pic509.jpg,173,125,304,186,2.661886,gun
+Test\pic510.jpg,175,66,211,164,3.0377009999999998,gun
+Test\pic545.jpg,215,-6,278,243,0.6836260000000001,gun
+Test\pic553.jpg,334,90,377,238,2.6318040000000003,gun
+Test\pic553.jpg,204,186,248,210,0.65904,pistol
+Test\pic554.jpg,220,111,372,160,0.672218,gun
+Test\pic554.jpg,81,109,272,158,1.0836940000000002,gun
+Test\pic556.jpg,268,55,333,78,0.13556300000000002,gun
+Test\pic558.jpg,27,106,230,183,0.666101,gun
+Test\pic559.jpg,5,137,373,219,0.104323,gun
+Test\pic561.jpg,129,43,258,201,0.085529,gun
+Test\pic562.jpg,196,77,273,212,0.145645,gun
+Test\pic563.jpg,89,96,271,160,0.12043800000000002,gun
+Test\pic564.jpg,267,68,312,153,0.198165,gun
+Test\pic575.jpg,22,272,1260,585,2.9648,gun
+Test\pic576.jpg,79,260,998,648,0.10695199999999999,gun
+Test\pic577.jpg,88,250,1023,700,3.102949,gun
+Test\pic578.jpg,461,384,893,700,3.073783,gun
+Test\pic6.jpg,7,35,241,111,0.0,gun
+Test\pic611.jpg,64,86,138,128,3.091559,pistol
+Test\pic620.jpg,122,114,303,195,0.391514,gun
+Test\pic651.jpg,43,80,257,135,0.094098,gun
+Test\pic681.jpg,78,119,266,176,2.937566,gun
+Test\pic7.jpg,100,51,424,155,0.0,gun
+Test\pic70.jpg,313,341,1246,521,2.7059040000000003,gun
+Test\pic703.jpg,329,92,1060,415,3.096874,gun
+Test\pic738.jpg,138,110,291,163,0.29069,gun
+Test\pic795.jpg,170,111,373,172,2.608323,gun
+Test\pic8.jpg,135,76,239,159,3.060189,gun
+Test\pic803.jpg,88,107,422,173,2.7681810000000002,gun
+Test\pic86.jpg,629,-44,810,758,0.746957,gun
+Test\pic9.jpg,0,55,425,211,0.0,gun
+Test\picc219.jpg,96,59,150,76,0.042104,gun
+Test\picc219.jpg,168,53,225,78,0.14243499999999998,gun
+Test\picc220.jpg,75,66,265,123,0.0,gun
+Test\picc222.jpg,52,103,257,137,0.0,gun
+Test\picc266.jpg,69,121,180,147,2.914471,gun
+Test\picc35.jpg,282,224,431,736,2.375543,gun
+Test\picc445.jpg,312,139,744,322,2.94182,gun
+Test\picc535.jpg,10,93,229,157,0.22769699999999998,gun
+Test\picc590.jpg,5,88,342,193,0.490307,gun
+Test\picc594.jpg,29,48,258,104,0.0,gun
+Test\picc63.jpg,47,50,272,123,3.116676,gun
+Test\picc642.jpg,98,95,257,141,0.017711,gun
+Test\picc656.jpg,236,266,528,349,0.9066700000000001,gun
+Test\picc656.jpg,544,303,755,336,1.902968,gun
+Test\picc656.jpg,93,302,272,335,1.7177669999999998,gun
+Test\picc7.jpg,1024,518,2655,1018,0.06648899999999999,gun
+Test\picc760.jpg,71,37,213,73,0.0,gun
+Test\picc783.jpg,20,243,928,512,0.259187,gun
+Test\picc784.jpg,209,291,461,395,0.39928400000000003,gun
+Test\picc784.jpg,401,238,677,328,0.6987479999999999,gun
+Test\picc784.jpg,792,274,926,325,1.047226,gun
+Test\picc784.jpg,948,275,1082,326,0.535596,gun
+Test\picc785.jpg,129,314,464,431,0.301512,gun
+Test\picc785.jpg,416,205,563,242,2.404903,gun
+Test\picc785.jpg,543,168,730,274,2.659077,gun
+Test\picc812.jpg,271,24,520,768,2.463457,gun
+Test\piccc (142).jpg,29,79,197,140,3.131593,gun
+Test\piccc (177).jpg,35,18,96,187,2.671593,gun
+Test\piccc (178).jpg,16,33,243,140,0.17,gun
+Test\piccc (185).jpg,34,46,113,70,2.641593,gun
+Test\piccc (185).jpg,116,46,176,70,2.391593,gun
+Test\piccc (185).jpg,155,51,248,71,2.791593,gun
+Test\piccc (19).jpg,66,51,190,128,2.941593,gun
+Test\piccc (203).jpg,42,56,233,154,2.641593,gun
+Test\piccc (204).jpg,15,37,206,111,3.091593,gun
+Test\piccc (205).jpg,0,83,186,156,0.0,gun
+Test\piccc (234).jpg,65,12,129,225,0.74,gun
+Test\piccc (236).jpg,20,16,179,70,2.921593,gun
+Test\piccc (237).jpg,10,66,261,135,2.871593,gun
+Test\piccc (238).jpg,105,27,284,162,0.04,gun
+Test\piccc (242).jpg,6,51,274,124,2.781593,gun
+Test\piccc (243).jpg,20,28,276,151,3.011593,gun
+Test\piccc (244).jpg,163,45,258,84,2.921593,gun
+Test\piccc (244).jpg,22,14,84,37,3.031593,gun
+Test\piccc (245).jpg,32,46,359,116,0.05,gun
+Test\piccc (246).jpg,94,72,199,114,0.0,gun
+Test\piccc (247).jpg,45,65,287,172,0.0,gun
+Test\piccc (248).jpg,2,69,266,186,0.0,gun
+Test\piccc (249).jpg,0,24,265,170,0.0,gun
+Test\piccc (250).jpg,74,74,106,238,2.531593,gun
+Test\piccc (251).jpg,45,71,237,129,2.641593,gun
+Test\piccc (252).jpg,102,104,235,149,0.29,gun
+Test\piccc (253).jpg,139,160,206,174,2.741593,gun
+Test\piccc (253).jpg,69,58,106,79,2.741593,gun
+Test\piccc (254).jpg,90,96,255,143,3.071593,gun
+Test\piccc (255).jpg,84,47,175,186,2.291593,gun
+Test\piccc (256).jpg,19,25,301,120,0.08,gun
+Test\piccc (257).jpg,83,0,143,173,0.68,gun
+Test\piccc (258).jpg,57,46,262,169,0.01,gun
+Test\piccc (259).jpg,5,56,261,135,2.991593,gun
+Test\piccc (260).jpg,4,10,338,122,3.111593,gun
+Test\piccc (261).jpg,144,65,210,90,0.0,gun
+Test\piccc (262).jpg,168,78,214,103,0.0,gun
+Test\piccc (263).jpg,102,30,190,57,0.0,gun
+Test\piccc (264).jpg,48,20,136,238,0.19,gun
+Test\piccc (265).jpg,66,59,289,109,0.04,gun
+Test\piccc (266).jpg,7,73,216,171,0.2,gun
+Test\piccc (267).jpg,54,24,135,235,0.28,gun
+Test\piccc (268).jpg,83,57,242,124,2.451593,gun
+Test\piccc (269).jpg,82,61,153,126,0.0,gun
+Test\piccc (270).jpg,88,64,202,86,2.801593,gun
+Test\piccc (271).jpg,60,6,108,189,2.301593,gun
+Test\piccc (272).jpg,6,62,43,133,2.951593,gun
+Test\piccc (272).jpg,40,45,78,116,2.8115930000000002,gun
+Test\piccc (272).jpg,82,42,111,111,2.8115930000000002,gun
+Test\piccc (272).jpg,116,43,146,97,0.16,gun
+Test\piccc (272).jpg,146,38,176,110,0.02,gun
+Test\piccc (272).jpg,173,33,216,113,0.1,gun
+Test\piccc (272).jpg,50,121,169,151,0.0,gun
+Test\piccc (272).jpg,63,12,174,44,2.921593,gun
+Test\piccc (273).jpg,44,48,240,162,0.0,gun
+Test\piccc (274).jpg,27,49,290,128,0.09,gun
+Test\piccc (275).jpg,111,67,165,115,0.0,gun
+Test\piccc (276).jpg,21,50,280,114,0.22,gun
+Test\piccc (277).jpg,57,57,244,107,0.2,gun
+Test\piccc (278).jpg,64,22,197,200,0.36,gun
+Test\piccc (295).jpg,22,39,264,114,2.8315930000000002,gun
+Test\piccc (302).jpg,142,34,170,171,0.61,gun
+Test\piccc (312).jpg,98,78,248,102,2.621593,gun
+Test\piccc (313).jpg,66,65,259,126,0.0,gun
+Test\piccc (314).jpg,0,58,232,170,0.0,gun
+Test\piccc (315).jpg,1,94,276,149,0.03,gun
+Test\piccc (316).jpg,85,64,235,131,0.0,gun
+Test\piccc (317).jpg,28,66,200,158,0.5,gun
+Test\piccc (33).jpg,121,135,554,334,0.0,gun
+Test\piccc (356).jpg,-15,85,231,101,2.351593,gun
+Test\piccc (38).jpg,48,49,182,116,0.04,gun
+Test\piccc (39).jpg,65,47,270,140,0.0,gun
+Test\piccc (4).jpg,93,198,537,337,0.1,gun
+Test\piccc (40).jpg,4,49,258,170,0.06,gun
+Test\piccc (41).jpg,46,53,290,143,0.02,gun
+Test\piccc (42).jpg,38,60,255,141,3.101593,gun
+Test\piccc (43).jpg,86,81,215,163,0.07,gun
+Test\piccc (5).jpg,41,88,751,332,2.911593,gun
+Test\piccc (6).jpg,225,131,288,355,2.411593,gun
+Test\piccc (83).jpg,18,66,268,149,2.901593,gun
+Test\piccc (95).jpg,41,41,90,191,2.471593,gun
+Test\piccc (96).jpg,185,72,276,127,0.12,gun
+Test\pic_ (100).jpg,19,19,161,165,2.911593,gun
+Test\pic_ (37).jpg,79,66,250,142,0.32,gun
+Test\pic_ (7).jpg,747,674,3959,2100,0.31,gun
+Test\pic_ (70).jpg,4,7,240,126,0.06,gun
+Test\pic_ (71).jpg,71,40,212,151,0.0,gun
+Test\pic_ (72).jpg,9,83,181,135,2.731593,gun
+Test\pic_ (73).jpg,90,22,258,127,2.841593,gun
+Test\pic_ (74).jpg,74,47,273,118,0.0,gun
+Test\pic_ (75).jpg,16,33,193,171,2.971593,gun
+Test\pic_ (76).jpg,30,81,236,123,3.011593,gun
+Test\pic_ (77).jpg,11,91,257,151,0.0,gun
+Test\pic_ (78).jpg,79,87,202,178,2.921593,gun
+Test\pic_ (78).jpg,1,31,73,51,0.04,gun
+Test\pic_ (79).jpg,43,75,189,108,3.101593,gun
+Test\pic_ (80).jpg,7,44,269,143,0.16,gun
+Test\pic_ (81).jpg,11,65,299,129,0.0,gun
+Test\pic_ (82).jpg,8,105,171,134,0.05,gun
+Test\pic_ (82).jpg,80,87,182,109,0.05,gun
+Test\pic_ (83).jpg,0,0,413,116,0.0,gun
+Test\pic_ (84).jpg,116,74,271,118,0.17,gun
+Test\pic_ (85).jpg,8,59,268,133,0.23,gun
+Test\pic_ (85).jpg,22,13,283,77,0.1,gun
+Test\pic_ (86).jpg,113,33,249,148,2.141593,gun
+Test\pic_ (87).jpg,23,41,287,90,2.8115930000000002,gun
+Test\pic_ (87).jpg,111,22,185,37,2.821593,gun
+Test\pic_ (87).jpg,1,23,117,50,2.791593,gun
+Test\pic_ (87).jpg,201,82,296,110,2.791593,gun
+Test\pic_ (87).jpg,111,95,196,120,2.771593,gun
+Test\pic_ (88).jpg,79,53,186,130,0.19,gun
+Test\pic_ (89).jpg,12,30,250,114,0.12,gun
+Test\pic_ (90).jpg,39,42,219,162,2.731593,gun
+Test\pic_ (91).jpg,5,30,180,156,0.1,gun
+Test\pic_ (92).jpg,72,67,244,127,3.131593,gun
+Test\pic_ (93).jpg,43,38,162,68,3.071593,gun
+Test\pic_ (93).jpg,3,132,117,165,0.28,gun
+Test\pic_ (94).jpg,26,27,278,121,2.911593,gun
+Test\pic_ (95).jpg,16,44,137,171,0.24,gun
+Test\pic_ (96).jpg,19,71,187,147,0.17,gun
+Test\pic_ (97).jpg,75,49,298,162,0.0,gun
+Test\pic_ (98).jpg,12,18,148,159,0.14,gun
+Test\pic_ (99).jpg,9,124,130,191,2.741593,gun
+Test\W100.jpg,10,27,138,100,2.661593,pistol
+Test\W1003.jpg,674,55,1073,242,3.131593,pistol
+Test\W1004.jpg,170,175,767,294,0.03,gun
+Test\W1005.jpg,60,47,604,410,0.0,pistol
+Test\W1006.jpg,226,151,376,242,0.24,pistol
+Test\W1006.jpg,77,148,208,245,0.23,pistol
+Test\W1007.jpg,326,155,924,426,0.05,pistol
+Test\W1008.jpg,42,346,224,484,3.091593,pistol
+Test\W1009.jpg,66,192,278,287,3.101593,pistol
+Test\W1009.jpg,17,452,91,499,3.0615930000000002,pistol
+Test\W1010.jpg,76,32,731,335,0.0,pistol
+Test\W1011.jpg,306,257,779,457,0.0,pistol
+Test\W1013.jpg,192,194,955,473,2.551593,pistol
+Test\W1014.jpg,273,214,570,316,0.53,pistol
+Test\W1015.jpg,215,92,495,190,3.031593,pistol
+Test\W1016.jpg,881,318,1895,806,3.031593,pistol
+Test\W1017.jpg,448,376,798,503,2.931593,pistol
+Test\W1018.jpg,386,69,678,305,3.051593,pistol
+Test\W1019.jpg,130,11,418,175,0.0,pistol
+Test\W1021.jpg,473,494,539,623,3.001593,pistol
+Test\W1022.jpg,583,0,809,221,0.0,pistol
+Test\W1024.jpg,124,174,650,292,0.69,pistol
+Test\W1025.jpg,45,121,452,268,0.0,pistol
+Test\W1026.jpg,9,106,476,236,0.34,pistol
+Test\W1027.jpg,-2,204,435,319,2.5815930000000002,pistol
+Test\W1028.jpg,32,154,474,401,0.27,pistol
+Test\W1029.jpg,15,250,557,327,0.0,gun
+Test\W1030.jpg,9,125,520,308,2.571593,pistol
+Test\W1031.jpg,261,103,547,259,0.0,pistol
+Test\W1032.jpg,81,199,112,222,3.001593,pistol
+Test\W1032.jpg,288,127,342,156,2.931593,pistol
+Test\W1032.jpg,484,70,539,115,2.891593,pistol
+Test\W1033.jpg,230,100,303,536,0.05,pistol
+Test\W1033.jpg,1101,283,1225,706,0.0,pistol
+Test\W1034.jpg,261,144,319,200,2.631593,pistol
+Test\W1035.jpg,234,231,1049,578,2.591593,pistol
+Test\W1036.jpg,549,223,1216,452,0.0,pistol
+Test\W1037.jpg,8,82,35,194,0.12,gun
+Test\W1038.jpg,132,141,421,339,0.06,pistol
+Test\W1039.jpg,60,353,809,673,3.121593,pistol
+Test\W1040.jpg,26,24,194,155,0.07,pistol
+Test\W1041.jpg,193,76,415,274,3.091593,pistol
+Test\W1042.jpg,446,311,1058,695,0.0,pistol
+Test\W1043.jpg,319,287,872,395,2.861593,pistol
+Test\W1044.jpg,286,11,377,361,2.601593,pistol
+Test\W1045.jpg,264,97,701,688,2.291593,pistol
+Test\W1046.jpg,69,110,1529,1205,0.0,pistol
+Test\W1048.jpg,98,159,325,347,2.841593,pistol
+Test\W1049.jpg,136,135,289,349,0.16,pistol
+Test\W1050.jpg,106,106,138,180,0.21,pistol
+Test\W1051.jpg,37,60,727,258,2.961593,pistol
+Test\W1077.jpg,106,18,442,209,0.11,pistol
+Test\W1078.jpg,216,72,592,355,0.25,pistol
+Test\W1079.jpg,293,238,427,685,2.351593,pistol
+Test\W1080.jpg,233,228,626,461,2.951593,pistol
+Test\W1083.jpg,22,362,510,527,0.12,pistol
+Test\W1084.jpg,991,630,1404,1001,2.651593,pistol
+Test\W1085.jpg,33,52,277,172,2.821593,pistol
+Test\W1086.jpg,187,102,564,234,0.65,pistol
+Test\W1087.jpg,130,91,553,366,0.0,pistol
+Test\W1087.jpg,710,81,1113,398,0.0,pistol
+Test\W1087.jpg,1273,92,1646,392,0.04,pistol
+Test\W1087.jpg,139,496,536,763,3.091593,pistol
+Test\W1087.jpg,770,468,1133,763,0.0,pistol
+Test\W1087.jpg,1258,488,1613,763,0.0,pistol
+Test\W1087.jpg,168,898,520,1143,3.091593,pistol
+Test\W1087.jpg,713,878,1069,1147,3.111593,pistol
+Test\W1111.jpg,3,5,741,482,0.0,pistol
+Test\W1112.jpg,70,100,355,353,3.101593,pistol
+Test\W1113.jpg,419,103,1182,605,0.03,pistol
+Test\W1114.jpg,43,33,655,453,3.131593,pistol
+Test\W1115.jpg,531,217,1082,973,2.531593,pistol
+Test\W1116.jpg,445,63,893,1086,3.111593,pistol
+Test\W1117.jpg,185,67,298,272,0.17,pistol
+Test\W1118.jpg,196,76,367,145,0.04,pistol
+Test\W1121.jpg,372,102,1039,1071,2.671593,pistol
+Test\W1123.jpg,75,203,822,615,2.391593,pistol
+Test\W1124.jpg,7,103,570,251,2.741593,pistol
+Test\W1125.jpg,436,135,844,242,2.291593,pistol
+Test\W1126.jpg,143,157,756,615,0.0,pistol
+Test\W1129.jpg,13,109,588,279,2.961593,gun
+Test\W1149.jpg,68,64,519,410,0.0,pistol
+Test\W1150.jpg,122,46,316,221,0.04,pistol
+Test\W1151.jpg,147,111,533,353,0.39,pistol
+Test\W1152.jpg,101,68,530,210,0.08,pistol
+Test\W1154.jpg,74,71,250,187,0.0,pistol
+Test\W1155.jpg,372,87,896,483,2.761593,pistol
+Test\W1156.jpg,13,89,299,215,2.731593,pistol
+Test\W1157.jpg,18,25,321,217,0.0,pistol
+Test\W1158.jpg,12,71,316,198,3.021593,pistol
+Test\W1159.jpg,52,18,231,142,0.23,pistol
+Test\W1160.jpg,388,127,856,415,2.271593,pistol
+Test\W1161.jpg,20,48,225,124,2.671593,pistol
+Test\W1162.jpg,137,10,195,189,2.541593,pistol
+Test\W1163.jpg,524,164,889,358,0.0,pistol
+Test\W1164.jpg,58,64,241,147,0.0,pistol
+Test\W1165.jpg,7,25,97,78,2.461593,pistol
+Test\W1166.jpg,443,315,716,513,0.0,pistol
+Test\W1167.jpg,34,30,67,64,2.741593,pistol
+Test\W1168.jpg,133,86,211,113,2.171593,pistol
+Test\W1169.jpg,85,24,258,163,0.02,pistol
+Test\W1170.jpg,1,10,286,151,0.0,pistol
+Test\W1185.jpg,180,59,259,96,2.721593,pistol
+Test\W1186.jpg,56,26,261,122,2.911593,pistol
+Test\W1187.jpg,126,29,245,103,0.0,pistol
+Test\W1188.jpg,64,75,349,223,2.441593,pistol
+Test\W1189.jpg,22,27,246,166,2.961593,pistol
+Test\W1190.jpg,77,38,185,102,0.3,pistol
+Test\W1191.jpg,116,66,217,122,3.101593,pistol
+Test\W1194.jpg,94,55,256,125,0.59,pistol
+Test\W1195.jpg,136,27,202,54,0.16,pistol
+Test\W1196.jpg,105,94,170,151,2.791593,pistol
+Test\W1198.jpg,84,120,551,362,0.39,pistol
+Test\W1200.jpg,31,5,447,172,0.0,pistol
+Test\W1201.jpg,73,31,250,159,2.941593,pistol
+Test\W1202.jpg,105,65,217,127,2.981593,pistol
+Test\W1203.jpg,167,51,273,105,0.01,pistol
+Test\W1204.jpg,88,59,247,113,2.151593,pistol
+Test\W1205.jpg,56,33,221,96,0.0,pistol
+Test\W1206.jpg,6,31,190,131,0.15,pistol
+Test\W1207.jpg,22,30,159,136,0.0,pistol
+Test\W1208.jpg,71,27,157,70,0.23,pistol
+Test\W1209.jpg,11,54,217,113,2.511593,pistol
+Test\W1210.jpg,267,92,404,334,0.0,pistol
+Test\W1211.jpg,125,47,248,136,0.36,pistol
+Test\W1212.jpg,38,66,173,162,2.781593,pistol
+Test\W1213.jpg,149,68,179,77,0.23,pistol
+Test\W1214.jpg,81,30,286,136,0.04,pistol
+Test\W1215.jpg,87,97,145,194,0.0,pistol
+Test\W1216.jpg,25,16,238,172,0.02,pistol
+Test\W1217.jpg,182,91,245,122,0.3,pistol
+Test\W1218.jpg,198,82,242,104,0.0,pistol
+Test\W1219.jpg,7,58,157,125,2.401593,pistol
+Test\W1220.jpg,148,19,246,57,0.0,pistol
+Test\W1221.jpg,46,61,1048,648,0.0,pistol
+Test\W1222.jpg,68,44,86,58,2.861593,pistol
+Test\W1240.jpg,100,114,205,141,0.86,gun
+Test\W1241.jpg,37,88,192,182,2.291593,pistol
+Test\W1242.jpg,23,28,71,69,0.2,pistol
+Test\W1243.jpg,169,52,259,155,0.0,pistol
+Test\W1244.jpg,45,20,398,173,0.0,pistol
+Test\W1244.jpg,59,151,433,322,0.0,pistol
+Test\W1245.jpg,182,110,236,140,0.84,pistol
+Test\W1246.jpg,97,28,264,162,0.0,pistol
+Test\W1247.jpg,154,54,182,125,0.0,gun
+Test\W1248.jpg,147,77,277,134,0.63,pistol
+Test\W1249.jpg,27,94,83,120,0.04,pistol
+Test\W1249.jpg,83,79,119,103,2.941593,pistol
+Test\W1250.jpg,56,54,91,99,2.591593,pistol
+Test\W1251.jpg,95,104,114,129,2.441593,pistol
+Test\W1252.jpg,86,38,124,148,0.52,pistol
+Test\W1253.jpg,69,22,220,165,0.26,gun
+Test\W1255.jpg,142,103,1246,387,0.1,gun
+Test\W1255.jpg,73,380,1255,673,0.1,gun
+Test\W1255.jpg,58,753,1246,983,0.0,gun
+Test\W1255.jpg,28,1041,1225,1280,0.0,gun
+Test\W1255.jpg,1616,111,2614,389,0.09,gun
+Test\W1255.jpg,1586,424,2628,674,0.1,gun
+Test\W1255.jpg,1581,723,2640,970,0.1,gun
+Test\W1255.jpg,1589,1040,2632,1286,0.04,gun
+Test\W1256.jpg,68,61,91,172,0.0,pistol
+Test\W1257.jpg,23,105,140,181,2.571593,pistol
+Test\W1258.jpg,55,44,158,101,2.341593,pistol
+Test\W1259.jpg,73,13,265,148,0.0,pistol
+Test\W1260.jpg,23,84,40,127,0.3,pistol
+Test\W1260.jpg,82,79,129,117,0.0,pistol
+Test\W1260.jpg,132,77,165,95,0.47,pistol
+Test\W1261.jpg,75,31,243,95,0.01,pistol
+Test\W1262.jpg,50,67,193,155,2.381593,pistol
+Test\W1263.jpg,249,65,304,105,3.0815930000000002,pistol
+Test\W1264.jpg,13,25,191,135,3.051593,pistol
+Test\W1265.jpg,49,111,102,144,0.2,pistol
+Test\W1266.jpg,79,117,340,238,0.1,gun
+Test\W1267.jpg,0,7,143,174,0.0,pistol
+Test\W1271.jpg,26,46,170,112,1.991593,pistol
+Test\W1271.jpg,21,122,66,199,2.301593,pistol
+Test\W1271.jpg,114,97,203,137,2.711593,pistol
+Test\W1273.jpg,29,46,239,151,2.821593,pistol
+Test\W1274.jpg,94,28,239,161,3.051593,pistol
+Test\W1275.jpg,68,71,85,88,0.0,pistol
+Test\W1276.jpg,110,39,231,84,0.05,pistol
+Test\W1277.jpg,290,113,927,579,0.0,pistol
+Test\W1278.jpg,21,41,76,129,2.931593,pistol
+Test\W1278.jpg,51,36,110,148,2.881593,pistol
+Test\W1279.jpg,91,24,156,86,0.29,pistol
+Test\W1280.jpg,122,20,150,64,0.0,pistol
+Test\W1281.jpg,23,65,74,100,2.841593,pistol
+Test\W1282.jpg,212,73,288,113,2.951593,pistol
+Test\W1283.jpg,54,85,151,205,0.41,pistol
+Test\W1284.jpg,128,96,174,112,3.101593,pistol
+Test\W1285.jpg,82,87,108,103,0.3,pistol
+Test\W1285.jpg,181,92,254,140,2.841593,pistol
+Test\W1286.jpg,53,45,207,128,2.851593,pistol
+Test\W1287.jpg,12,59,187,148,0.5,pistol
+Test\W1288.jpg,29,200,784,478,2.551593,pistol
+Test\W1289.jpg,46,14,257,162,0.04,pistol
+Test\W1290.jpg,92,60,221,136,2.671593,pistol
+Test\W1291.jpg,11,43,170,109,2.551593,pistol
+Test\W1292.jpg,151,46,200,76,0.0,pistol
+Test\W1292.jpg,209,43,254,65,2.981593,pistol
+Test\W1293.jpg,119,61,225,104,1.991593,pistol
+Test\W1294.jpg,184,78,234,105,0.05,pistol
+Test\W1295.jpg,48,64,199,130,2.461593,pistol
+Test\W1296.jpg,97,33,218,106,0.6,pistol
+Test\W1297.jpg,54,63,156,106,0.0,pistol
+Test\W1298.jpg,76,0,124,232,0.8,gun
+Test\W1299.jpg,10,76,438,219,0.19,pistol
+Test\W1300.jpg,129,70,140,99,0.0,pistol
+Test\W1300.jpg,184,67,199,102,0.0,pistol
+Test\W1301.jpg,182,40,259,98,0.1,pistol
+Test\W1302.jpg,3,26,238,85,0.17,pistol
+Test\W1303.jpg,194,60,236,88,0.01,pistol
+Test\W1304.jpg,213,47,264,106,0.12,pistol
+Test\W1306.jpg,64,94,114,133,0.39,pistol
+Test\W1307.jpg,19,72,197,137,0.37,pistol
+Test\W1307.jpg,59,3,258,107,0.0,pistol
+Test\W1308.jpg,81,52,211,101,2.251593,gun
+Test\W1309.jpg,74,11,287,93,3.101593,pistol
+Test\W1310.jpg,404,71,519,150,3.051593,pistol
+Test\W1311.jpg,24,102,69,129,2.401593,pistol
+Test\W1311.jpg,215,102,247,146,2.3115930000000002,pistol
+Test\W1313.jpg,166,52,243,128,2.8115930000000002,pistol
+Test\W1314.jpg,39,72,271,148,0.0,gun
+Test\W1315.jpg,62,33,235,121,0.46,pistol
+Test\W1316.jpg,151,82,179,99,2.941593,pistol
+Test\W1318.jpg,22,35,141,128,0.73,pistol
+Test\W1319.jpg,16,53,167,166,2.711593,gun
+Test\W1320.jpg,84,79,195,148,0.4,pistol
+Test\W1321.jpg,114,38,285,336,0.62,pistol
+Test\W1322.jpg,1,8,280,68,0.0,gun
+Test\W1322.jpg,147,43,424,82,0.01,gun
+Test\W1324.jpg,172,21,229,195,0.25,pistol
+Test\W1325.jpg,7,15,165,93,2.941593,pistol
+Test\W1325.jpg,91,127,254,175,0.11,pistol
+Test\W1326.jpg,137,-8,207,188,2.141593,pistol
+Test\W1329.jpg,31,49,206,165,0.0,pistol
+Test\W1330.jpg,58,20,113,164,2.361593,pistol
+Test\W1331.jpg,169,19,211,88,2.291593,pistol
+Test\W1334.jpg,18,101,56,116,2.631593,pistol
+Test\W1334.jpg,56,141,106,159,2.451593,pistol
+Test\W1335.jpg,156,41,267,117,2.941593,pistol
+Test\W1337.jpg,49,129,222,150,0.2,gun
+Test\W1338.jpg,115,30,190,160,2.431593,pistol
+Test\W1339.jpg,6,60,267,123,0.0,gun
+Test\W1340.jpg,6,52,85,102,3.071593,pistol
+Test\W1341.jpg,141,11,158,77,2.401593,pistol
+Test\W1342.jpg,66,92,86,149,2.541593,pistol
+Test\W1343.jpg,196,22,1515,854,0.0,pistol
+Test\W1346.jpg,143,59,199,113,0.0,pistol
+Test\W1346.jpg,206,45,264,98,0.03,pistol
+Test\W1348.jpg,161,133,181,189,2.281593,pistol
+Test\W1348.jpg,211,98,227,137,2.111593,pistol
+Test\W1349.jpg,10,73,116,110,0.43,gun
+Test\W1350.jpg,75,33,101,139,3.0815930000000002,pistol
+Test\W1351.jpg,179,30,211,58,2.841593,pistol
+Test\W1352.jpg,127,68,199,109,3.041593,pistol
+Test\W1353.jpg,60,17,160,220,2.241593,gun
+Test\W1354.jpg,13,77,63,138,2.891593,pistol
+Test\W1355.jpg,481,137,1523,967,0.02,pistol
+Test\W1356.jpg,62,90,195,126,2.821593,pistol
+Test\W1357.jpg,62,31,155,125,0.25,pistol
+Test\W1358.jpg,178,44,237,98,2.941593,pistol
+Test\W1359.jpg,111,69,163,157,3.021593,pistol
+Test\W1360.jpg,200,25,220,95,0.02,pistol
+Test\W1361.jpg,131,58,172,123,3.041593,pistol
+Test\W1362.jpg,69,72,119,165,0.4,gun
+Test\W1362.jpg,113,78,176,184,0.0,gun
+Test\W1363.jpg,19,20,255,167,0.0,pistol
+Test\W1365.jpg,116,78,150,95,0.1,pistol
+Test\W1368.jpg,114,26,164,122,0.82,pistol
+Test\W1369.jpg,23,50,69,85,0.06,pistol
+Test\W1370.jpg,25,77,60,92,2.711593,pistol
+Test\W1371.jpg,124,60,296,126,0.11,pistol
+Test\W1372.jpg,213,103,254,126,0.11,pistol
+Test\W1373.jpg,60,14,250,156,0.11,pistol
+Test\W1374.jpg,86,83,209,114,0.27,pistol
+Test\W1375.jpg,53,17,145,191,2.091593,pistol
+Test\W1376.jpg,99,6,160,98,0.07,pistol
+Test\W1377.jpg,64,65,932,578,0.0,pistol
+Test\W1379.jpg,4,11,217,159,0.04,pistol
+Test\W1380.jpg,134,94,153,105,2.481593,pistol
+Test\W1380.jpg,235,76,255,86,0.34,pistol
+Test\W1381.jpg,154,48,251,115,2.921593,pistol
+Test\W1382.jpg,127,70,162,94,2.951593,pistol
+Test\W1383.jpg,70,107,217,195,0.3,pistol
+Test\W1384.jpg,11,55,246,158,0.0,pistol
+Test\W1386.jpg,123,44,279,126,3.031593,pistol
+Test\W1387.jpg,49,56,126,211,2.041593,pistol
+Test\W1393.jpg,50,33,265,97,0.31,pistol
+Test\W1394.jpg,128,42,160,60,0.13,pistol
+Test\W1395.jpg,141,14,250,65,0.0,pistol
+Test\W1396.jpg,9,48,274,135,0.33,pistol
+Test\W1397.jpg,88,22,243,78,3.091593,pistol
+Test\W1398.jpg,22,36,233,168,0.04,pistol
+Test\W1400.jpg,112,62,140,74,0.0,pistol
+Test\W1401.jpg,221,47,264,70,2.901593,pistol
+Test\W1402.jpg,93,112,275,156,0.0,pistol
+Test\W1403.jpg,127,19,208,148,2.411593,pistol
+Test\W1404.jpg,127,4,204,179,0.1,gun
+Test\W1405.jpg,80,17,258,157,0.0,pistol
+Test\W1407.jpg,40,13,218,174,0.16,pistol
+Test\W1408.jpg,85,74,213,164,3.071593,pistol
+Test\W1409.jpg,54,42,172,69,0.21,gun
+Test\W1411.jpg,35,8,103,55,0.2,pistol
+Test\W1412.jpg,42,43,204,130,2.391593,pistol
+Test\W1413.jpg,153,50,194,74,0.7,pistol
+Test\W1413.jpg,36,17,89,105,2.341593,pistol
+Test\W1414.jpg,25,66,132,123,2.341593,pistol
+Test\W1416.jpg,39,43,157,176,0.11,pistol
+Test\W1417.jpg,38,33,143,194,3.0815930000000002,pistol
+Test\W1418.jpg,198,59,246,112,2.971593,pistol
+Test\W1419.jpg,147,79,200,118,2.301593,pistol
+Test\W1420.jpg,74,171,96,226,0.21,pistol
+Test\W1421.jpg,284,153,1253,903,0.1,pistol
+Test\W1422.jpg,127,45,213,134,0.15,pistol
+Test\W1422.jpg,245,56,339,131,0.25,pistol
+Test\W1423.jpg,97,38,207,175,2.541593,pistol
+Test\W1424.jpg,172,32,211,58,2.781593,pistol
+Test\W1425.jpg,67,35,251,141,0.2,pistol
+Test\W1426.jpg,160,33,193,56,0.03,pistol
+Test\W1427.jpg,31,33,130,149,2.421593,pistol
+Test\W1428.jpg,177,53,231,139,2.961593,pistol
+Test\W1429.jpg,29,40,66,115,0.06,pistol
+Test\W1430.jpg,30,53,159,239,0.09,pistol
+Test\W1432.jpg,245,161,348,229,3.091593,pistol
+Test\W1432.jpg,331,189,416,252,3.101593,pistol
+Test\W1432.jpg,549,172,638,232,0.04,pistol
+Test\W1433.jpg,142,15,231,52,3.091593,pistol
+Test\W1434.jpg,53,13,177,203,0.28,pistol
+Test\W1435.jpg,63,43,212,141,2.891593,pistol
+Test\W1436.jpg,112,32,171,82,3.111593,pistol
+Test\W1437.jpg,9,91,109,136,2.441593,pistol
+Test\W1438.jpg,33,42,151,96,2.911593,pistol
+Test\W1439.jpg,94,88,152,160,2.8115930000000002,gun
+Test\W1441.jpg,105,26,184,150,0.59,pistol
+Test\W1441.jpg,12,32,76,83,0.45,pistol
+Test\W1467.jpg,30,69,206,193,0.0,gun
+Test\W1468.jpg,86,180,109,241,2.901593,pistol
+Test\W1469.jpg,178,57,235,90,2.451593,pistol
+Test\W1470.jpg,17,15,196,145,0.0,pistol
+Test\W1471.jpg,21,48,135,163,0.3,pistol
+Test\W1473.jpg,30,16,81,48,0.4,pistol
+Test\W1473.jpg,234,61,277,90,0.0,pistol
+Test\W1474.jpg,50,21,93,54,0.54,pistol
+Test\W1475.jpg,185,112,250,135,0.08,pistol
+Test\W1476.jpg,225,46,293,84,2.941593,pistol
+Test\W1478.jpg,80,15,237,127,0.02,pistol
+Test\W1481.jpg,20,75,209,183,0.35,pistol
+Test\W1483.jpg,47,31,203,163,3.131593,pistol
+Test\W1484.jpg,97,108,131,130,3.091593,pistol
+Test\W1485.jpg,110,82,144,107,3.131593,pistol
+Test\W1488.jpg,302,70,672,324,0.24,pistol
+Test\W1489.jpg,69,134,129,163,0.15,pistol
+Test\W1492.jpg,73,81,127,110,3.001593,pistol
+Test\W1493.jpg,31,33,51,80,3.0615930000000002,pistol
+Test\W1494.jpg,15,15,66,161,2.951593,pistol
+Test\W1495.jpg,150,7,221,166,2.3115930000000002,pistol
+Test\W1496.jpg,118,65,153,152,2.781593,pistol
+Test\W1497.jpg,162,51,193,82,2.821593,pistol
+Test\W1497.jpg,231,43,269,72,2.901593,pistol
+Test\W1498.jpg,42,65,135,166,2.741593,pistol
+Test\W1501.jpg,54,85,103,254,2.441593,gun
+Test\W1502.jpg,3,60,78,95,2.941593,gun
+Test\W1502.jpg,43,93,153,147,2.721593,gun
+Test\W1502.jpg,158,96,200,166,0.05,gun
+Test\W1502.jpg,222,108,251,164,2.8315930000000002,gun
+Test\W1503.jpg,8,59,157,127,2.211593,pistol
+Test\W1523.jpg,11,29,51,46,0.02,pistol
+Test\W1524.jpg,37,38,205,162,2.671593,pistol
+Test\W1525.jpg,57,10,123,160,0.6,pistol
+Test\W1526.jpg,8,41,164,117,2.751593,pistol
+Test\W1527.jpg,33,40,227,136,0.0,pistol
+Test\W1528.jpg,82,56,152,172,0.53,pistol
+Test\W1529.jpg,41,37,182,80,0.05,gun
+Test\W1530.jpg,15,41,198,146,2.611593,pistol
+Test\W1531.jpg,2,0,240,202,0.0,pistol
+Test\W1532.jpg,450,468,1277,837,3.041593,pistol
+Test\W1533.jpg,62,32,277,153,3.041593,gun
+Test\W1534.jpg,26,72,206,184,2.621593,pistol
+Test\W1535.jpg,2,8,300,165,0.0,pistol
+Test\W1536.jpg,94,37,183,95,2.941593,pistol
+Test\W1537.jpg,5,52,220,113,0.36,pistol
+Test\W1538.jpg,12,9,59,45,0.38,pistol
+Test\W1540.jpg,32,27,207,85,0.16,pistol
+Test\W1541.jpg,28,68,120,124,3.071593,pistol
+Test\W1541.jpg,127,103,184,143,3.0615930000000002,pistol
+Test\W1542.jpg,124,12,189,135,0.68,pistol
+Test\W1543.jpg,67,273,1116,751,3.111593,pistol
+Test\W1544.jpg,198,91,266,117,3.051593,pistol
+Test\W1545.jpg,65,63,125,108,2.921593,pistol
+Test\W1546.jpg,80,37,168,142,0.09,pistol
+Test\W1547.jpg,104,37,149,143,0.06,pistol
+Test\W1548.jpg,62,24,258,146,0.0,pistol
+Test\W1549.jpg,174,97,244,129,2.671593,gun
+Test\W1550.jpg,7,96,176,163,0.0,pistol
+Test\W1587.jpg,296,531,709,1155,2.401593,pistol
+Test\W1588.jpg,145,71,313,234,2.641593,pistol
+Test\W1589.jpg,150,27,239,245,2.3315930000000002,pistol
+Test\W1590.jpg,72,124,109,216,3.111593,pistol
+Test\W1594.jpg,300,106,384,138,2.971593,pistol
+Test\W1595.jpg,556,200,1467,578,0.13,pistol
+Test\W1596.jpg,305,129,404,246,0.37,pistol
+Test\W1597.jpg,127,207,238,465,0.19,pistol
+Test\W1598.jpg,9,595,1000,824,3.111593,pistol
+Test\W1599.jpg,142,110,293,172,0.27,pistol
+Test\W1600.jpg,286,24,520,450,2.861593,pistol
+Test\W1601.jpg,321,155,633,283,0.09,pistol
+Test\W1602.jpg,185,60,927,740,3.111593,pistol
+Test\W1603.jpg,395,128,463,180,2.681593,pistol
+Test\W1604.jpg,14,372,799,810,0.0,pistol
+Test\W1608.jpg,158,216,348,613,0.04,pistol
+Test\W1615.jpg,58,228,155,301,2.411593,pistol
+Test\W1615.jpg,487,222,561,325,2.301593,pistol
+Test\W1616.jpg,28,87,203,203,0.27,pistol
+Test\W1617.jpg,24,181,898,490,0.0,gun
+Test\W1621.jpg,185,132,367,262,3.121593,pistol
+Test\W1622.jpg,486,134,727,246,0.28,pistol
+Test\W1623.jpg,329,483,405,622,0.34,pistol
+Test\W1623.jpg,755,506,811,643,2.441593,pistol
+Test\W1624.jpg,177,199,512,278,0.29,gun
+Test\W1625.jpg,25,80,262,122,0.04,pistol
+Test\W1626.jpg,438,281,905,370,2.971593,gun
+Test\W1627.jpg,428,39,773,182,2.901593,pistol
+Test\W1628.jpg,26,70,422,353,3.0815930000000002,pistol
+Test\W1629.jpg,287,143,390,283,0.55,pistol
+Test\W1630.jpg,135,107,461,226,2.211593,pistol
+Test\W1631.jpg,573,31,922,905,2.541593,pistol
+Test\W1632.jpg,166,211,194,292,2.851593,pistol
+Test\W1633.jpg,124,77,191,179,0.27,pistol
+Test\W1634.jpg,156,129,257,229,0.04,pistol
+Test\W1635.jpg,10,91,148,178,3.071593,pistol
+Test\W1636.jpg,64,231,588,857,0.23,pistol
+Test\W1637.jpg,251,108,295,212,0.0,pistol
+Test\W1638.jpg,108,37,384,183,2.901593,pistol
+Test\W1639.jpg,32,61,467,244,0.07,gun
+Test\W1640.jpg,344,149,493,333,0.05,pistol
+Test\W1640.jpg,498,148,609,327,0.07,pistol
+Test\W1641.jpg,315,142,414,223,0.05,pistol
+Test\W1644.jpg,416,446,534,491,2.981593,pistol
+Test\W1645.jpg,364,596,417,742,2.371593,pistol
+Test\W1645.jpg,1307,292,1365,402,1.741593,pistol
+Test\W1645.jpg,1573,225,1676,259,0.0,pistol
+Test\W1645.jpg,1845,162,1962,199,0.0,pistol
+Test\W1646.jpg,219,285,1770,835,3.101593,gun
+Test\W1649.jpg,463,82,552,155,2.861593,gun
+Test\W165.jpg,1,187,157,294,3.111593,pistol
+Test\W1650.jpg,79,83,446,295,0.33,pistol
+Test\W1653.jpg,441,224,592,269,0.55,pistol
+Test\W166.jpg,75,74,222,143,0.01,pistol
+Test\W1660.jpg,615,-43,1116,1103,2.151593,gun
+Test\W1661.jpg,531,512,670,838,0.0,gun
+Test\W1662.jpg,96,60,260,195,2.751593,pistol
+Test\W1663.jpg,425,187,754,403,2.661593,pistol
+Test\W1665.jpg,226,68,353,188,0.8,pistol
+Test\W1670.jpg,358,62,464,488,2.241593,gun
+Test\W1676.jpg,109,82,270,250,3.031593,pistol
+Test\W1677.jpg,89,16,155,59,2.461593,pistol
+Test\W1677.jpg,150,46,207,117,0.68,pistol
+Test\W168.jpg,210,73,263,105,0.19,pistol
+Test\W1682.jpg,438,99,555,223,0.09,pistol
+Test\W1684.jpg,197,29,308,331,2.641593,pistol
+Test\W1685.jpg,57,349,164,469,2.131593,pistol
+Test\W1686.jpg,229,180,537,224,3.011593,gun
+Test\W169.jpg,75,52,131,125,0.03,pistol
+Test\W178.jpg,30,120,102,148,2.501593,pistol
+Test\W179.jpg,2,39,42,64,0.3,pistol
+Test\W179.jpg,243,48,296,79,2.841593,pistol
+Test\W183.jpg,22,28,136,127,0.2,pistol
+Test\W184.jpg,37,51,62,67,0.38,pistol
+Test\W184.jpg,28,113,46,160,2.761593,pistol
+Test\W184.jpg,156,22,181,38,0.84,pistol
+Test\W185.jpg,182,31,246,65,2.891593,pistol
+Test\W186.jpg,114,41,149,54,3.011593,pistol
+Test\W188.jpg,199,34,324,127,3.041593,pistol
+Test\W189.jpg,122,153,141,213,2.8315930000000002,pistol
+Test\W192.jpg,6,73,171,149,2.911593,gun
+Test\W193.jpg,97,82,114,100,0.34,pistol
+Test\W196.jpg,145,31,187,160,2.001593,gun
+Test\W203.jpg,89,122,219,167,2.761593,pistol
+Test\W204.jpg,127,93,255,134,2.761593,gun
+Test\W206.jpg,166,18,248,44,2.661593,pistol
+Test\W208.jpg,91,101,202,166,3.121593,pistol
+Test\W210.jpg,132,11,157,66,0.42,pistol
+Test\W213.jpg,50,165,820,317,0.02,gun
+Test\W214.jpg,223,35,342,123,0.0,pistol
+Test\W216.jpg,179,13,295,77,2.891593,pistol
+Test\W217.jpg,81,57,121,124,2.941593,pistol
+Test\W217.jpg,194,100,213,144,2.241593,pistol
+Test\W218.jpg,99,34,208,182,2.511593,pistol
+Test\W313.jpg,323,283,767,610,2.441593,gun
+Test\W318.jpg,89,64,215,91,0.29,gun
+Test\W321.jpg,20,99,143,155,0.29,pistol
+Test\W321.jpg,100,82,200,109,0.1,pistol
+Test\W322.jpg,85,40,136,62,2.701593,pistol
+Test\W323.jpg,146,80,217,115,3.041593,pistol
+Test\W326.jpg,198,28,241,165,0.66,gun
+Test\W328.jpg,66,147,124,170,0.51,pistol
+Test\W328.jpg,188,164,209,182,0.0,gun
+Test\W329.jpg,132,39,245,119,0.0,pistol
+Test\W330.jpg,94,47,175,93,0.4,gun
+Test\W332.jpg,25,49,105,100,0.0,gun
+Test\W334.jpg,180,115,267,163,3.051593,gun
+Test\W336.jpg,25,62,264,203,0.4,pistol
+Test\W337.jpg,130,77,222,133,0.63,gun
+Test\W338.jpg,91,52,182,129,3.071593,pistol
+Test\W340.jpg,127,106,270,146,0.55,pistol
+Test\W341.jpg,197,52,214,83,0.58,pistol
+Test\W346.jpg,118,32,158,173,0.27,pistol
+Test\W350.jpg,18,57,47,131,2.5815930000000002,pistol
+Test\W350.jpg,92,69,115,139,0.7,pistol
+Test\W354.jpg,38,80,176,109,3.111593,gun
+Test\W384.jpg,72,131,236,152,0.2,gun
+Test\W384.jpg,159,-4,208,135,0.86,gun
+Test\W385.jpg,11,73,154,155,0.46,pistol
+Test\W387.jpg,69,51,266,126,0.33,pistol
+Test\W388.jpg,48,104,187,135,3.091593,gun
+Test\W415.jpg,371,156,492,205,0.0,pistol
+Test\W458.jpg,77,183,267,446,2.951593,pistol
+Test\W481.jpg,68,388,372,591,0.08,pistol
+Test\W486.jpg,92,32,180,87,0.89,pistol
+Test\W486.jpg,359,515,447,626,2.8315930000000002,pistol
+Test\W486.jpg,355,652,427,719,0.01,pistol
+Test\W486.jpg,329,414,356,467,0.51,pistol
+Test\W494.jpg,555,298,809,758,2.101593,gun
+Test\W494.jpg,910,153,983,225,0.0,pistol
+Test\W554.jpg,69,131,173,335,0.87,pistol
+Test\W554.jpg,382,288,587,320,2.841593,gun
+Test\W556.jpg,366,575,582,688,2.351593,pistol
+Test\W556.jpg,363,484,542,593,2.491593,pistol
+Test\W559.jpg,105,284,541,511,2.691593,pistol
+Test\W559.jpg,82,546,614,759,2.651593,pistol
+Test\W561.jpg,473,144,776,311,0.01,pistol
+Test\W562.jpg,633,221,730,529,0.0,gun
+Test\W564.jpg,198,206,457,294,2.801593,pistol
+Test\W567.jpg,214,167,584,437,0.48,pistol
+Test\W575.jpg,420,151,896,357,0.26,pistol
+Test\W579.jpg,766,10,1104,854,2.3115930000000002,pistol
+Test\W583.jpg,126,28,559,343,3.0815930000000002,pistol
+Test\W584.jpg,35,96,530,303,0.0,pistol
+Test\W587.jpg,29,55,185,162,0.0,pistol
+Test\W601.jpg,51,82,879,469,0.17,gun
+Test\W686.jpg,62,117,865,551,0.0,pistol
+Test\W737.jpg,38,225,125,299,2.891593,pistol
+Test\W745.jpg,35,189,1322,641,0.01,gun
+Test\W767.jpg,233,295,1098,607,0.57,pistol
+Test\W776.jpg,298,149,557,263,0.66,pistol
+Test\W778.jpg,360,50,415,84,2.441593,pistol
+Test\W781.jpg,338,251,455,301,3.041593,pistol
+Test\W782.jpg,64,52,406,166,0.16,pistol
+Test\W83.jpg,49,101,259,148,2.8115930000000002,gun
+Test\W957.jpg,265,67,351,117,0.0,pistol
+Test\W971.jpg,232,30,773,432,0.06,pistol
